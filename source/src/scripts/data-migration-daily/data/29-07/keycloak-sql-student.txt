@@ -1,1 +1,0 @@
-select StudentID, KxStudentID from Basecamp_live.dbo.ST2Students where StudentID IN ('0010353','09000','0009713','1234','0010459','0010413','0010410','09603','00316')

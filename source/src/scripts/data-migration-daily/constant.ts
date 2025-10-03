@@ -1,1 +1,0 @@
-export const STUDENT_INCREMENT_ID = 999900000;
