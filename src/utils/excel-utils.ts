@@ -6,6 +6,7 @@ import Encoding from 'encoding-japanese';
 import path, { dirname } from "path";
 
 import { str_slug, str_ucfirst } from "./str-utils";
+import { AsyncParser } from "@json2csv/node/index.js";
 
 colors.green
 
@@ -427,3 +428,15 @@ export function get_filename_without_extension(filePath: string): string{
     const fileNameWithoutExtension = path.parse(fileNameWithExtension).name; // Extract the file name without extension
     return fileNameWithoutExtension;
 }
+
+export async function json_to_csv(path: string, data: any){
+  const opts = {};
+    const transformOpts = {};
+    const asyncOpts = {};
+    const parser = new AsyncParser(opts, asyncOpts, transformOpts);
+  
+    const csv = await parser.parse(data).promise();
+    
+    str_to_file(path, csv);
+}
+
