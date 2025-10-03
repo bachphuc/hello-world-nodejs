@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Copenhagen City",
+    "refid": "CPH1",
+    "id": 1
+  },
+  {
+    "name": "Lyngby",
+    "refid": "CPH2",
+    "id": 2
+  },
+  {
+    "name": "South Campus",
+    "refid": "CPH3",
+    "id": 3
+  },
+  {
+    "name": "Łódź Rewolucji",
+    "refid": "LDZ1",
+    "id": 4
+  },
+  {
+    "name": "Łódź Rembielińskiego",
+    "refid": "LDZ2",
+    "id": 5
+  },
+  {
+    "name": "Katowice",
+    "refid": "KAT",
+    "id": 6
+  },
+  {
+    "name": "Wroclaw",
+    "refid": "WRO",
+    "id": 7
+  },
+  {
+    "name": "Potsdam",
+    "refid": "PROT",
+    "id": 8
+  },
+  {
+    "name": "Leipzig",
+    "refid": "LEI",
+    "id": 9
+  },
+  {
+    "name": "Dortmund",
+    "refid": "DTM",
+    "id": 10
+  },
+  {
+    "name": "Aachen",
+    "refid": "AAC",
+    "id": 11
+  },
+  {
+    "name": "Göttingen",
+    "refid": "GOT",
+    "id": 12
+  }
+]

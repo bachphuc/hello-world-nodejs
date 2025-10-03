@@ -1,0 +1,193 @@
+{
+  "featureRef": "feature1",
+  "featureName": "Feature1",
+  "propertyCode": "DORTMUND",
+  "groups": [
+    {
+      "ref": "group1",
+      "name": "group1",
+      "shownType": 0,
+      "types": [
+        {
+          "ref": "group1Type1",
+          "name": "group1Type1",
+          "fields": [ 
+            {
+              "ref": "group1Type1Field1",
+              "name": "How to hear about us",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "group2",
+      "name": "group2",
+      "shownType": 0,
+      "types": [
+        {
+          "ref": "group2Type1",
+          "name": "group2Type1",
+          "fields": [ 
+            {
+              "ref": "group2Type1Field1",
+              "name": "group2Type1Field1",
+              "type": "text"
+            },
+            {
+              "ref": "group2Type1Field2",
+              "name": "group2Type1Field2",
+              "type": "text"
+            },
+            {
+              "ref": "group2Type1Field3",
+              "name": "group2Type1Field3",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "group3",
+      "name": "group3",
+      "shownType": 1,
+      "types": [
+        {
+          "ref": "group3Type1",
+          "name": "group3Type1",
+          "fields": [ 
+            {
+              "ref": "group3type1Field1",
+              "name": "group3type1Field1",
+              "type": "text"
+            },
+            {
+              "ref": "group3type1Field2",
+              "name": "group3type1Field2",
+              "type": "text"
+            },
+            {
+              "ref": "group3type1Field3",
+              "name": "group3type1Field3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "ref": "group3Type2",
+          "name": "group3Type2",
+          "fields": [ 
+            {
+              "ref": "group3type2Field1",
+              "name": "group3type2Field1",
+              "type": "text"
+            },
+            {
+              "ref": "group3type2Field2",
+              "name": "group3type2Field2",
+              "type": "text"
+            },
+            {
+              "ref": "group3type2Field3",
+              "name": "group3type2Field3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "ref": "group3Type3",
+          "name": "group3Type3",
+          "fields": [ 
+            {
+              "ref": "group3type3Field1",
+              "name": "group3type3Field1",
+              "type": "text"
+            },
+            {
+              "ref": "group3type3Field2",
+              "name": "group3type3Field2",
+              "type": "text"
+            },
+            {
+              "ref": "group3type3Field3",
+              "name": "group3type3Field3",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "group4",
+      "name": "group4",
+      "shownType": 0,
+      "types": [
+        {
+          "ref": "group4Type1",
+          "name": "group4Type1",
+          "fields": [ 
+            {
+              "ref": "group4Type1Field1",
+              "name": "group4Type1Field1",
+              "type": "text"
+            },
+            {
+              "ref": "group4Type1Field1",
+              "name": "group4Type1Field1",
+              "type": "text"
+            },
+            {
+              "ref": "group4Type1Field1",
+              "name": "group4Type1Field1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "ref": "group4Type2",
+          "name": "group4Type2",
+          "fields": [ 
+            {
+              "ref": "group4Type2Field1",
+              "name": "group4Type2Field1",
+              "type": "text"
+            },
+            {
+              "ref": "group4Type2Field2",
+              "name": "group4Type2Field2",
+              "type": "text"
+            },
+            {
+              "ref": "group4Type2Field3",
+              "name": "group4Type2Field3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "ref": "group4Type3",
+          "name": "group4Type3",
+          "fields": [ 
+            {
+              "ref": "group4Type3Field1",
+              "name": "group4Type3Field1",
+              "type": "text"
+            },
+            {
+              "ref": "group4Type3Field2",
+              "name": "group4Type3Field2",
+              "type": "text"
+            },
+            {
+              "ref": "group4Type3Field3",
+              "name": "group4Type3Field3",
+              "type": "text"
+            }
+          ]
+        }
+      ] 
+    }
+  ]
+}

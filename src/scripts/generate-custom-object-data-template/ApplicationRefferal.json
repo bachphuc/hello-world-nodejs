@@ -1,0 +1,72 @@
+{
+  "featureRef": "ApplicationRefferal",
+  "featureName": "ApplicationReferral",
+  "propertyCode": "KST",
+  "groups": [
+    {
+      "ref": "ApplicationReferralBy",
+      "name": "ApplicationReferralBy",
+      "shownType": 1,
+      "types": [
+        {
+          "ref": "ApplicationReferralByStudent",
+          "name": "Student Agent",
+          "fields": [ 
+            {
+              "ref": "ApplicationReferralByStudentName",
+              "name": "Name",
+              "type": "text"
+            },
+            {
+              "ref": "ApplicationReferralByStudentEmail",
+              "name": "Contact email",
+              "type": "email"
+            },
+            {
+              "ref": "ApplicationReferralByStudentPhone",
+              "name": "Contact phone",
+              "type": "phone"
+            },
+            {
+              "ref": "ApplicationReferralByStudentAgencyName",
+              "name": "Agency name",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "ref": "ApplicationReferralByFriend",
+          "name": "Refer a Friend",
+          "fields": [ 
+            {
+              "ref": "ApplicationReferralByFriendName",
+              "name": "Name of referrer",
+              "type": "text"
+            },
+            {
+              "ref": "ApplicationReferralByFriendRoomNumber",
+              "name": "Referrer's room number",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "ref": "ApplicationReferralByCorporate",
+          "name": "Corporate Referrals",
+          "fields": [ 
+            {
+              "ref": "ApplicationReferralByCorporateName",
+              "name": "Company name",
+              "type": "text"
+            },
+            {
+              "ref": "ApplicationReferralByCorporateCode",
+              "name": "Company code",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

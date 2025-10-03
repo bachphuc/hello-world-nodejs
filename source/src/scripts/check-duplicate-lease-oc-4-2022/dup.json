@@ -1,0 +1,3386 @@
+{
+  "77": [
+    {
+      "profile_rental_requirements_id": 77,
+      "lease_id": 50,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 143,
+      "hotel_room_id": 0,
+      "create_datetime": 44722.630731481484,
+      "update_datetime": 44761.53753923611,
+      "create_datetime_format": "2022-06-10T08:08:15.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 77,
+      "lease_id": 10223,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 143,
+      "hotel_room_id": 0,
+      "create_datetime": 44742.388959108794,
+      "update_datetime": 44761.53753923611,
+      "create_datetime_format": "2022-06-30T02:20:06.000Z",
+      "duplicate_with": 10224
+    },
+    {
+      "profile_rental_requirements_id": 77,
+      "lease_id": 10224,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 143,
+      "hotel_room_id": 0,
+      "create_datetime": 44742.38901427083,
+      "update_datetime": 44761.53753923611,
+      "create_datetime_format": "2022-06-30T02:20:10.000Z",
+      "duplicate_with": 10223
+    },
+    {
+      "profile_rental_requirements_id": 77,
+      "lease_id": 10286,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 143,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.387791354166,
+      "update_datetime": 44761.53753923611,
+      "create_datetime_format": "2022-07-01T02:18:25.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 77,
+      "lease_id": 13093,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 143,
+      "hotel_room_id": 0,
+      "create_datetime": 44761.410921296294,
+      "update_datetime": 44761.53753923611,
+      "create_datetime_format": "2022-07-19T02:51:43.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 77,
+      "lease_id": 13094,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 143,
+      "hotel_room_id": 0,
+      "create_datetime": 44761.414008912034,
+      "update_datetime": 44761.53753923611,
+      "create_datetime_format": "2022-07-19T02:56:10.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 77,
+      "lease_id": 13103,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 143,
+      "hotel_room_id": 0,
+      "create_datetime": 44761.53753920139,
+      "update_datetime": 44761.53753920139,
+      "create_datetime_format": "2022-07-19T05:54:03.000Z"
+    }
+  ],
+  "82": [
+    {
+      "profile_rental_requirements_id": 82,
+      "lease_id": 53,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 151,
+      "hotel_room_id": 0,
+      "create_datetime": 44722.641508217595,
+      "update_datetime": 44762.18681288195,
+      "create_datetime_format": "2022-06-10T08:23:46.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 82,
+      "lease_id": 10225,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 151,
+      "hotel_room_id": 0,
+      "create_datetime": 44742.38958009259,
+      "update_datetime": 44743.38277094907,
+      "create_datetime_format": "2022-06-30T02:20:59.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 82,
+      "lease_id": 10284,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 151,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.382715775464,
+      "update_datetime": 44743.38277094907,
+      "create_datetime_format": "2022-07-01T02:11:06.000Z",
+      "duplicate_with": 10285
+    },
+    {
+      "profile_rental_requirements_id": 82,
+      "lease_id": 10285,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 151,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.38277091435,
+      "update_datetime": 44743.38277091435,
+      "create_datetime_format": "2022-07-01T02:11:11.000Z",
+      "duplicate_with": 10284
+    }
+  ],
+  "87": [
+    {
+      "profile_rental_requirements_id": 87,
+      "lease_id": 55,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 160,
+      "hotel_room_id": 0,
+      "create_datetime": 44722.660817627315,
+      "update_datetime": 44741.303112152775,
+      "create_datetime_format": "2022-06-10T08:51:34.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 87,
+      "lease_id": 10171,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 160,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.30303452547,
+      "update_datetime": 44741.303112152775,
+      "create_datetime_format": "2022-06-29T00:16:22.000Z",
+      "duplicate_with": 10172
+    },
+    {
+      "profile_rental_requirements_id": 87,
+      "lease_id": 10172,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 160,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.303112118054,
+      "update_datetime": 44741.303112118054,
+      "create_datetime_format": "2022-06-29T00:16:28.000Z",
+      "duplicate_with": 10171
+    }
+  ],
+  "99": [
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 59,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44722.696874918984,
+      "update_datetime": 44809.40819201389,
+      "create_datetime_format": "2022-06-10T09:43:30.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 12139,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44749.30660335648,
+      "update_datetime": 44809.40819201389,
+      "create_datetime_format": "2022-07-07T00:21:30.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 13657,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44771.47289236111,
+      "update_datetime": 44809.40819201389,
+      "create_datetime_format": "2022-07-29T04:20:57.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 14682,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44790.39010810185,
+      "update_datetime": 44809.40819201389,
+      "create_datetime_format": "2022-08-17T02:21:45.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 14694,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44790.45890790509,
+      "update_datetime": 44809.40819201389,
+      "create_datetime_format": "2022-08-17T04:00:49.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 15741,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44806.521962928244,
+      "update_datetime": 44809.40819201389,
+      "create_datetime_format": "2022-09-02T05:31:37.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 16361,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44809.39812827546,
+      "update_datetime": 44809.40819201389,
+      "create_datetime_format": "2022-09-05T02:33:18.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 16363,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44809.39880300926,
+      "update_datetime": 44809.40819204861,
+      "create_datetime_format": "2022-09-05T02:34:16.000Z",
+      "duplicate_with": 16364
+    },
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 16364,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44809.3988215625,
+      "update_datetime": 44809.40819204861,
+      "create_datetime_format": "2022-09-05T02:34:18.000Z",
+      "duplicate_with": 16363
+    },
+    {
+      "profile_rental_requirements_id": 99,
+      "lease_id": 16451,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 179,
+      "hotel_room_id": 0,
+      "create_datetime": 44809.408191979164,
+      "update_datetime": 44809.408191979164,
+      "create_datetime_format": "2022-09-05T02:47:47.000Z"
+    }
+  ],
+  "123": [
+    {
+      "profile_rental_requirements_id": 123,
+      "lease_id": 73,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 222,
+      "hotel_room_id": 0,
+      "create_datetime": 44722.920056863426,
+      "update_datetime": 44743.548049074074,
+      "create_datetime_format": "2022-06-10T15:04:52.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 123,
+      "lease_id": 10334,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 222,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.54802554398,
+      "update_datetime": 44743.548049074074,
+      "create_datetime_format": "2022-07-01T06:09:09.000Z",
+      "duplicate_with": 10335
+    },
+    {
+      "profile_rental_requirements_id": 123,
+      "lease_id": 10335,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 222,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.548049074074,
+      "update_datetime": 44743.548049074074,
+      "create_datetime_format": "2022-07-01T06:09:11.000Z",
+      "duplicate_with": 10334
+    }
+  ],
+  "184": [
+    {
+      "profile_rental_requirements_id": 184,
+      "lease_id": 107,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 26463,
+      "hotel_room_id": 0,
+      "create_datetime": 44724.76682445602,
+      "update_datetime": 44793.603552465276,
+      "create_datetime_format": "2022-06-12T11:24:13.000Z",
+      "duplicate_with": 107
+    },
+    {
+      "profile_rental_requirements_id": 184,
+      "lease_id": 107,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 395,
+      "hotel_room_id": 0,
+      "create_datetime": 44724.76682445602,
+      "update_datetime": 44793.603552465276,
+      "create_datetime_format": "2022-06-12T11:24:13.000Z",
+      "duplicate_with": 107
+    },
+    {
+      "profile_rental_requirements_id": 184,
+      "lease_id": 12941,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 26463,
+      "hotel_room_id": 0,
+      "create_datetime": 44757.60621863426,
+      "update_datetime": 44793.603552465276,
+      "create_datetime_format": "2022-07-15T07:32:57.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 184,
+      "lease_id": 12941,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 395,
+      "hotel_room_id": 0,
+      "create_datetime": 44757.60621863426,
+      "update_datetime": 44793.603552465276,
+      "create_datetime_format": "2022-07-15T07:32:57.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 184,
+      "lease_id": 14875,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 26463,
+      "hotel_room_id": 0,
+      "create_datetime": 44793.603552430555,
+      "update_datetime": 44793.603552430555,
+      "create_datetime_format": "2022-08-20T07:29:06.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 184,
+      "lease_id": 14875,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 395,
+      "hotel_room_id": 0,
+      "create_datetime": 44793.603552430555,
+      "update_datetime": 44793.603552430555,
+      "create_datetime_format": "2022-08-20T07:29:06.000Z"
+    }
+  ],
+  "188": [
+    {
+      "profile_rental_requirements_id": 188,
+      "lease_id": 116,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 404,
+      "hotel_room_id": 0,
+      "create_datetime": 44724.91993966435,
+      "update_datetime": 44812.42588333334,
+      "create_datetime_format": "2022-06-12T15:04:42.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 188,
+      "lease_id": 11653,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 404,
+      "hotel_room_id": 0,
+      "create_datetime": 44747.45779042824,
+      "update_datetime": 44812.42588333334,
+      "create_datetime_format": "2022-07-05T03:59:13.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 188,
+      "lease_id": 16993,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 404,
+      "hotel_room_id": 0,
+      "create_datetime": 44812.425835532405,
+      "update_datetime": 44812.42588333334,
+      "create_datetime_format": "2022-09-08T03:13:12.000Z",
+      "duplicate_with": 16994
+    },
+    {
+      "profile_rental_requirements_id": 188,
+      "lease_id": 16994,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 404,
+      "hotel_room_id": 0,
+      "create_datetime": 44812.42588329861,
+      "update_datetime": 44812.42588329861,
+      "create_datetime_format": "2022-09-08T03:13:16.000Z",
+      "duplicate_with": 16993
+    }
+  ],
+  "237": [
+    {
+      "profile_rental_requirements_id": 237,
+      "lease_id": 140,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 516,
+      "hotel_room_id": 0,
+      "create_datetime": 44725.6521403125,
+      "update_datetime": 44827.37012581019,
+      "create_datetime_format": "2022-06-13T08:39:04.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 237,
+      "lease_id": 12143,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 516,
+      "hotel_room_id": 0,
+      "create_datetime": 44749.313997997684,
+      "update_datetime": 44827.37012584491,
+      "create_datetime_format": "2022-07-07T00:32:09.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 237,
+      "lease_id": 12689,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 516,
+      "hotel_room_id": 0,
+      "create_datetime": 44754.53147480324,
+      "update_datetime": 44827.37012584491,
+      "create_datetime_format": "2022-07-12T05:45:19.000Z",
+      "duplicate_with": 12690
+    },
+    {
+      "profile_rental_requirements_id": 237,
+      "lease_id": 12690,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 516,
+      "hotel_room_id": 0,
+      "create_datetime": 44754.53157086806,
+      "update_datetime": 44827.37012584491,
+      "create_datetime_format": "2022-07-12T05:45:27.000Z",
+      "duplicate_with": 12689
+    },
+    {
+      "profile_rental_requirements_id": 237,
+      "lease_id": 18904,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 516,
+      "hotel_room_id": 0,
+      "create_datetime": 44827.37012581019,
+      "update_datetime": 44827.37012581019,
+      "create_datetime_format": "2022-09-23T01:52:58.000Z"
+    }
+  ],
+  "311": [
+    {
+      "profile_rental_requirements_id": 311,
+      "lease_id": 192,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 21830,
+      "hotel_room_id": 0,
+      "create_datetime": 44726.50987299768,
+      "update_datetime": 44757.60696153935,
+      "create_datetime_format": "2022-06-14T05:14:13.000Z",
+      "duplicate_with": 192
+    },
+    {
+      "profile_rental_requirements_id": 311,
+      "lease_id": 192,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 662,
+      "hotel_room_id": 0,
+      "create_datetime": 44726.50987299768,
+      "update_datetime": 44757.60696153935,
+      "create_datetime_format": "2022-06-14T05:14:13.000Z",
+      "duplicate_with": 192
+    },
+    {
+      "profile_rental_requirements_id": 311,
+      "lease_id": 12942,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 21830,
+      "hotel_room_id": 0,
+      "create_datetime": 44757.60696149305,
+      "update_datetime": 44757.60696149305,
+      "create_datetime_format": "2022-07-15T07:34:01.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 311,
+      "lease_id": 12942,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 662,
+      "hotel_room_id": 0,
+      "create_datetime": 44757.60696149305,
+      "update_datetime": 44757.60696149305,
+      "create_datetime_format": "2022-07-15T07:34:01.000Z"
+    }
+  ],
+  "389": [
+    {
+      "profile_rental_requirements_id": 389,
+      "lease_id": 238,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 22268,
+      "hotel_room_id": 0,
+      "create_datetime": 44727.39487337963,
+      "update_datetime": 44743.439594791664,
+      "create_datetime_format": "2022-06-15T02:28:37.000Z",
+      "duplicate_with": 238
+    },
+    {
+      "profile_rental_requirements_id": 389,
+      "lease_id": 238,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 816,
+      "hotel_room_id": 0,
+      "create_datetime": 44727.39487337963,
+      "update_datetime": 44743.439594791664,
+      "create_datetime_format": "2022-06-15T02:28:37.000Z",
+      "duplicate_with": 238
+    },
+    {
+      "profile_rental_requirements_id": 389,
+      "lease_id": 10313,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 22268,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.439594791664,
+      "update_datetime": 44743.439594791664,
+      "create_datetime_format": "2022-07-01T03:33:00.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 389,
+      "lease_id": 10313,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 816,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.439594791664,
+      "update_datetime": 44743.439594791664,
+      "create_datetime_format": "2022-07-01T03:33:00.000Z"
+    }
+  ],
+  "417": [
+    {
+      "profile_rental_requirements_id": 417,
+      "lease_id": 257,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 871,
+      "hotel_room_id": 0,
+      "create_datetime": 44727.61067253472,
+      "update_datetime": 44749.31741350694,
+      "create_datetime_format": "2022-06-15T07:39:22.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 417,
+      "lease_id": 12150,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 871,
+      "hotel_room_id": 0,
+      "create_datetime": 44749.31733283565,
+      "update_datetime": 44749.31741350694,
+      "create_datetime_format": "2022-07-07T00:36:57.000Z",
+      "duplicate_with": 12151
+    },
+    {
+      "profile_rental_requirements_id": 417,
+      "lease_id": 12151,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 871,
+      "hotel_room_id": 0,
+      "create_datetime": 44749.317413460645,
+      "update_datetime": 44749.317413460645,
+      "create_datetime_format": "2022-07-07T00:37:04.000Z",
+      "duplicate_with": 12150
+    }
+  ],
+  "447": [
+    {
+      "profile_rental_requirements_id": 447,
+      "lease_id": 280,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 26730,
+      "hotel_room_id": 0,
+      "create_datetime": 44727.78696932871,
+      "update_datetime": 44743.351308715275,
+      "create_datetime_format": "2022-06-15T11:53:14.000Z",
+      "duplicate_with": 280
+    },
+    {
+      "profile_rental_requirements_id": 447,
+      "lease_id": 280,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 917,
+      "hotel_room_id": 0,
+      "create_datetime": 44727.78696932871,
+      "update_datetime": 44743.351308715275,
+      "create_datetime_format": "2022-06-15T11:53:14.000Z",
+      "duplicate_with": 280
+    },
+    {
+      "profile_rental_requirements_id": 447,
+      "lease_id": 10170,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 26730,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.30245520833,
+      "update_datetime": 44743.351308715275,
+      "create_datetime_format": "2022-06-29T00:15:32.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 447,
+      "lease_id": 10170,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 917,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.30245520833,
+      "update_datetime": 44743.351308715275,
+      "create_datetime_format": "2022-06-29T00:15:32.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 447,
+      "lease_id": 10260,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 26730,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.351308680554,
+      "update_datetime": 44743.351308680554,
+      "create_datetime_format": "2022-07-01T01:25:53.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 447,
+      "lease_id": 10260,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 917,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.351308680554,
+      "update_datetime": 44743.351308680554,
+      "create_datetime_format": "2022-07-01T01:25:53.000Z"
+    }
+  ],
+  "2809": [
+    {
+      "profile_rental_requirements_id": 2809,
+      "lease_id": 2612,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 3350,
+      "hotel_room_id": 0,
+      "create_datetime": 44729.263037303244,
+      "update_datetime": 44826.42023873843,
+      "create_datetime_format": "2022-06-16T23:18:46.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 2809,
+      "lease_id": 11660,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 3350,
+      "hotel_room_id": 0,
+      "create_datetime": 44747.46287476852,
+      "update_datetime": 44826.42023873843,
+      "create_datetime_format": "2022-07-05T04:06:32.000Z",
+      "duplicate_with": 11661
+    },
+    {
+      "profile_rental_requirements_id": 2809,
+      "lease_id": 11661,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 3350,
+      "hotel_room_id": 0,
+      "create_datetime": 44747.462941550926,
+      "update_datetime": 44826.42023873843,
+      "create_datetime_format": "2022-07-05T04:06:38.000Z",
+      "duplicate_with": 11660
+    },
+    {
+      "profile_rental_requirements_id": 2809,
+      "lease_id": 11662,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 3350,
+      "hotel_room_id": 0,
+      "create_datetime": 44747.46294521991,
+      "update_datetime": 44826.42023873843,
+      "create_datetime_format": "2022-07-05T04:06:38.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 2809,
+      "lease_id": 11663,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 3350,
+      "hotel_room_id": 0,
+      "create_datetime": 44747.46294869213,
+      "update_datetime": 44826.42023877315,
+      "create_datetime_format": "2022-07-05T04:06:38.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 2809,
+      "lease_id": 18055,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 3350,
+      "hotel_room_id": 0,
+      "create_datetime": 44816.476174386575,
+      "update_datetime": 44826.42023877315,
+      "create_datetime_format": "2022-09-12T04:25:41.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 2809,
+      "lease_id": 18847,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 3350,
+      "hotel_room_id": 0,
+      "create_datetime": 44826.42023869213,
+      "update_datetime": 44826.42023869213,
+      "create_datetime_format": "2022-09-22T03:05:08.000Z"
+    }
+  ],
+  "5296": [
+    {
+      "profile_rental_requirements_id": 5296,
+      "lease_id": 5095,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 5847,
+      "hotel_room_id": 0,
+      "create_datetime": 44729.39277815972,
+      "update_datetime": 44837.50911478009,
+      "create_datetime_format": "2022-06-17T02:25:36.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 5296,
+      "lease_id": 18724,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 5847,
+      "hotel_room_id": 0,
+      "create_datetime": 44824.433880324075,
+      "update_datetime": 44837.50911478009,
+      "create_datetime_format": "2022-09-20T03:24:47.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 5296,
+      "lease_id": 19625,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 5847,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.50907974537,
+      "update_datetime": 44837.50911478009,
+      "create_datetime_format": "2022-10-03T05:13:04.000Z",
+      "duplicate_with": 19626
+    },
+    {
+      "profile_rental_requirements_id": 5296,
+      "lease_id": 19626,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 5847,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.509114733795,
+      "update_datetime": 44837.509114733795,
+      "create_datetime_format": "2022-10-03T05:13:07.000Z",
+      "duplicate_with": 19625
+    }
+  ],
+  "5620": [
+    {
+      "profile_rental_requirements_id": 5620,
+      "lease_id": 5415,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 6178,
+      "hotel_room_id": 0,
+      "create_datetime": 44729.46300945602,
+      "update_datetime": 44835.55575378472,
+      "create_datetime_format": "2022-06-17T04:06:44.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 5620,
+      "lease_id": 18383,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 6178,
+      "hotel_room_id": 0,
+      "create_datetime": 44821.46811388889,
+      "update_datetime": 44835.55575378472,
+      "create_datetime_format": "2022-09-17T04:14:05.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 5620,
+      "lease_id": 19464,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 6178,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.53956408565,
+      "update_datetime": 44835.55575378472,
+      "create_datetime_format": "2022-09-30T05:56:58.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 5620,
+      "lease_id": 19465,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 6178,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.540360416664,
+      "update_datetime": 44835.55575378472,
+      "create_datetime_format": "2022-09-30T05:58:07.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 5620,
+      "lease_id": 19531,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 6178,
+      "hotel_room_id": 0,
+      "create_datetime": 44835.55567048611,
+      "update_datetime": 44835.55575378472,
+      "create_datetime_format": "2022-10-01T06:20:09.000Z",
+      "duplicate_with": 19532
+    },
+    {
+      "profile_rental_requirements_id": 5620,
+      "lease_id": 19532,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 6178,
+      "hotel_room_id": 0,
+      "create_datetime": 44835.55575373842,
+      "update_datetime": 44835.55575373842,
+      "create_datetime_format": "2022-10-01T06:20:17.000Z",
+      "duplicate_with": 19531
+    }
+  ],
+  "7119": [
+    {
+      "profile_rental_requirements_id": 7119,
+      "lease_id": 6912,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 7682,
+      "hotel_room_id": 0,
+      "create_datetime": 44729.56047430556,
+      "update_datetime": 44827.4358125,
+      "create_datetime_format": "2022-06-17T06:27:04.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 7119,
+      "lease_id": 11665,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 7682,
+      "hotel_room_id": 0,
+      "create_datetime": 44747.464784525466,
+      "update_datetime": 44827.4358125,
+      "create_datetime_format": "2022-07-05T04:09:17.000Z",
+      "duplicate_with": 11666
+    },
+    {
+      "profile_rental_requirements_id": 7119,
+      "lease_id": 11666,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 7682,
+      "hotel_room_id": 0,
+      "create_datetime": 44747.46484930556,
+      "update_datetime": 44827.43581253472,
+      "create_datetime_format": "2022-07-05T04:09:22.000Z",
+      "duplicate_with": 11665
+    },
+    {
+      "profile_rental_requirements_id": 7119,
+      "lease_id": 18932,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 7682,
+      "hotel_room_id": 0,
+      "create_datetime": 44827.4358125,
+      "update_datetime": 44827.4358125,
+      "create_datetime_format": "2022-09-23T03:27:34.000Z"
+    }
+  ],
+  "9682": [
+    {
+      "profile_rental_requirements_id": 9682,
+      "lease_id": 9401,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 10453,
+      "hotel_room_id": 0,
+      "create_datetime": 44733.84767565972,
+      "update_datetime": 44838.39309525463,
+      "create_datetime_format": "2022-06-21T13:20:39.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 9682,
+      "lease_id": 10238,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 10453,
+      "hotel_room_id": 0,
+      "create_datetime": 44742.47931674768,
+      "update_datetime": 44838.39309528935,
+      "create_datetime_format": "2022-06-30T04:30:12.000Z",
+      "duplicate_with": 10239
+    },
+    {
+      "profile_rental_requirements_id": 9682,
+      "lease_id": 10239,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 10453,
+      "hotel_room_id": 0,
+      "create_datetime": 44742.479360300924,
+      "update_datetime": 44838.39309528935,
+      "create_datetime_format": "2022-06-30T04:30:16.000Z",
+      "duplicate_with": 10238
+    },
+    {
+      "profile_rental_requirements_id": 9682,
+      "lease_id": 19694,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 10453,
+      "hotel_room_id": 0,
+      "create_datetime": 44838.39309525463,
+      "update_datetime": 44838.39309525463,
+      "create_datetime_format": "2022-10-04T02:26:03.000Z"
+    }
+  ],
+  "9772": [
+    {
+      "profile_rental_requirements_id": 9772,
+      "lease_id": 9464,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 10635,
+      "hotel_room_id": 0,
+      "create_datetime": 44736.14524155093,
+      "update_datetime": 44743.35631292824,
+      "create_datetime_format": "2022-06-23T20:29:08.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 9772,
+      "lease_id": 10256,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 10635,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.3464837963,
+      "update_datetime": 44743.35631292824,
+      "create_datetime_format": "2022-07-01T01:18:56.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 9772,
+      "lease_id": 10265,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 10635,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.356229895835,
+      "update_datetime": 44743.35631292824,
+      "create_datetime_format": "2022-07-01T01:32:58.000Z",
+      "duplicate_with": 10266
+    },
+    {
+      "profile_rental_requirements_id": 9772,
+      "lease_id": 10266,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 10635,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.356257175925,
+      "update_datetime": 44743.35631292824,
+      "create_datetime_format": "2022-07-01T01:33:00.000Z",
+      "duplicate_with": 10265
+    },
+    {
+      "profile_rental_requirements_id": 9772,
+      "lease_id": 10267,
+      "hotel_id": 3,
+      "name": "South Campus",
+      "itinerary_number": 10635,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.356312881944,
+      "update_datetime": 44743.356312881944,
+      "create_datetime_format": "2022-07-01T01:33:05.000Z"
+    }
+  ],
+  "10040": [
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 9547,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 11074,
+      "hotel_room_id": 0,
+      "create_datetime": 44739.84385960648,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-06-27T13:15:09.000Z",
+      "duplicate_with": 9547
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 9547,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 34817,
+      "hotel_room_id": 0,
+      "create_datetime": 44739.84385960648,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-06-27T13:15:09.000Z",
+      "duplicate_with": 9547
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 18285,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 11074,
+      "hotel_room_id": 0,
+      "create_datetime": 44819.464425,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-09-15T04:08:46.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 18285,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 34817,
+      "hotel_room_id": 0,
+      "create_datetime": 44819.464425,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-09-15T04:08:46.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 19152,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 11074,
+      "hotel_room_id": 0,
+      "create_datetime": 44831.40033287037,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-09-27T02:36:28.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 19152,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 34817,
+      "hotel_room_id": 0,
+      "create_datetime": 44831.40033287037,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-09-27T02:36:28.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 19161,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 11074,
+      "hotel_room_id": 0,
+      "create_datetime": 44831.403648611114,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-09-27T02:41:15.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 19161,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 34817,
+      "hotel_room_id": 0,
+      "create_datetime": 44831.403648611114,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-09-27T02:41:15.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 19338,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 11074,
+      "hotel_room_id": 0,
+      "create_datetime": 44833.32864667824,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-09-29T00:53:15.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 19338,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 34817,
+      "hotel_room_id": 0,
+      "create_datetime": 44833.32864667824,
+      "update_datetime": 44833.32867164352,
+      "create_datetime_format": "2022-09-29T00:53:15.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 19339,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 11074,
+      "hotel_room_id": 0,
+      "create_datetime": 44833.3286716088,
+      "update_datetime": 44833.3286716088,
+      "create_datetime_format": "2022-09-29T00:53:17.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10040,
+      "lease_id": 19339,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 34817,
+      "hotel_room_id": 0,
+      "create_datetime": 44833.3286716088,
+      "update_datetime": 44833.3286716088,
+      "create_datetime_format": "2022-09-29T00:53:17.000Z"
+    }
+  ],
+  "10283": [
+    {
+      "profile_rental_requirements_id": 10283,
+      "lease_id": 9618,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11376,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.082678356484,
+      "update_datetime": 44809.356572916666,
+      "create_datetime_format": "2022-06-28T18:59:03.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10283,
+      "lease_id": 13525,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11376,
+      "hotel_room_id": 0,
+      "create_datetime": 44769.56976813657,
+      "update_datetime": 44809.356572916666,
+      "create_datetime_format": "2022-07-27T06:40:27.000Z",
+      "duplicate_with": 13526
+    },
+    {
+      "profile_rental_requirements_id": 10283,
+      "lease_id": 13526,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11376,
+      "hotel_room_id": 0,
+      "create_datetime": 44769.56977445602,
+      "update_datetime": 44809.356572916666,
+      "create_datetime_format": "2022-07-27T06:40:28.000Z",
+      "duplicate_with": 13525
+    },
+    {
+      "profile_rental_requirements_id": 10283,
+      "lease_id": 16234,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11376,
+      "hotel_room_id": 0,
+      "create_datetime": 44809.35623943287,
+      "update_datetime": 44809.356572916666,
+      "create_datetime_format": "2022-09-05T01:32:59.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10283,
+      "lease_id": 16235,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11376,
+      "hotel_room_id": 0,
+      "create_datetime": 44809.356572881945,
+      "update_datetime": 44809.356572881945,
+      "create_datetime_format": "2022-09-05T01:33:27.000Z"
+    }
+  ],
+  "10645": [
+    {
+      "profile_rental_requirements_id": 10645,
+      "lease_id": 9980,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11739,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.090358333335,
+      "update_datetime": 44820.431751041666,
+      "create_datetime_format": "2022-06-28T19:10:06.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10645,
+      "lease_id": 18344,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11739,
+      "hotel_room_id": 0,
+      "create_datetime": 44820.43174652778,
+      "update_datetime": 44820.431751041666,
+      "create_datetime_format": "2022-09-16T03:21:42.000Z",
+      "duplicate_with": 18345
+    },
+    {
+      "profile_rental_requirements_id": 10645,
+      "lease_id": 18345,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11739,
+      "hotel_room_id": 0,
+      "create_datetime": 44820.43175092593,
+      "update_datetime": 44820.43175092593,
+      "create_datetime_format": "2022-09-16T03:21:43.000Z",
+      "duplicate_with": 18344
+    }
+  ],
+  "10703": [
+    {
+      "profile_rental_requirements_id": 10703,
+      "lease_id": 10038,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11797,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.09191739583,
+      "update_datetime": 44778.55523730324,
+      "create_datetime_format": "2022-06-28T19:12:21.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10703,
+      "lease_id": 14070,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11797,
+      "hotel_room_id": 0,
+      "create_datetime": 44778.55490454861,
+      "update_datetime": 44778.55523730324,
+      "create_datetime_format": "2022-08-05T06:19:03.000Z",
+      "duplicate_with": 14071
+    },
+    {
+      "profile_rental_requirements_id": 10703,
+      "lease_id": 14071,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11797,
+      "hotel_room_id": 0,
+      "create_datetime": 44778.554992592595,
+      "update_datetime": 44778.55523730324,
+      "create_datetime_format": "2022-08-05T06:19:11.000Z",
+      "duplicate_with": 14070
+    },
+    {
+      "profile_rental_requirements_id": 10703,
+      "lease_id": 14072,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11797,
+      "hotel_room_id": 0,
+      "create_datetime": 44778.55515625,
+      "update_datetime": 44778.55523730324,
+      "create_datetime_format": "2022-08-05T06:19:25.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10703,
+      "lease_id": 14073,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 11797,
+      "hotel_room_id": 0,
+      "create_datetime": 44778.55523726852,
+      "update_datetime": 44778.55523726852,
+      "create_datetime_format": "2022-08-05T06:19:32.000Z"
+    }
+  ],
+  "10838": [
+    {
+      "profile_rental_requirements_id": 10838,
+      "lease_id": 10181,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 12561,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.38873799769,
+      "update_datetime": 44747.3142380787,
+      "create_datetime_format": "2022-06-29T02:19:46.000Z",
+      "duplicate_with": 10181
+    },
+    {
+      "profile_rental_requirements_id": 10838,
+      "lease_id": 10181,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 37448,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.38873799769,
+      "update_datetime": 44747.3142380787,
+      "create_datetime_format": "2022-06-29T02:19:46.000Z",
+      "duplicate_with": 10181
+    },
+    {
+      "profile_rental_requirements_id": 10838,
+      "lease_id": 11644,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 12561,
+      "hotel_room_id": 0,
+      "create_datetime": 44747.3142380787,
+      "update_datetime": 44747.3142380787,
+      "create_datetime_format": "2022-07-05T00:32:30.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10838,
+      "lease_id": 11644,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 37448,
+      "hotel_room_id": 0,
+      "create_datetime": 44747.3142380787,
+      "update_datetime": 44747.3142380787,
+      "create_datetime_format": "2022-07-05T00:32:30.000Z"
+    }
+  ],
+  "10860": [
+    {
+      "profile_rental_requirements_id": 10860,
+      "lease_id": 10197,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 12616,
+      "hotel_room_id": 0,
+      "create_datetime": 44741.560612534726,
+      "update_datetime": 44823.46063391204,
+      "create_datetime_format": "2022-06-29T06:27:16.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 10860,
+      "lease_id": 18484,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 12616,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.46058935185,
+      "update_datetime": 44823.460634027775,
+      "create_datetime_format": "2022-09-19T04:03:14.000Z",
+      "duplicate_with": 18485
+    },
+    {
+      "profile_rental_requirements_id": 10860,
+      "lease_id": 18485,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 12616,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.46063371528,
+      "update_datetime": 44823.46063371528,
+      "create_datetime_format": "2022-09-19T04:03:18.000Z",
+      "duplicate_with": 18484
+    }
+  ],
+  "11205": [
+    {
+      "profile_rental_requirements_id": 11205,
+      "lease_id": 10331,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 13054,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.541137002314,
+      "update_datetime": 44792.44009730324,
+      "create_datetime_format": "2022-07-01T05:59:14.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 11205,
+      "lease_id": 10332,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 13054,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.541548229165,
+      "update_datetime": 44792.44009730324,
+      "create_datetime_format": "2022-07-01T05:59:49.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 11205,
+      "lease_id": 10357,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 13054,
+      "hotel_room_id": 0,
+      "create_datetime": 44743.61274765046,
+      "update_datetime": 44792.44009730324,
+      "create_datetime_format": "2022-07-01T07:42:21.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 11205,
+      "lease_id": 14316,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 13054,
+      "hotel_room_id": 0,
+      "create_datetime": 44783.42752438657,
+      "update_datetime": 44792.44009730324,
+      "create_datetime_format": "2022-08-10T03:15:38.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 11205,
+      "lease_id": 14809,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 13054,
+      "hotel_room_id": 0,
+      "create_datetime": 44792.40628591435,
+      "update_datetime": 44792.44009730324,
+      "create_datetime_format": "2022-08-19T02:45:03.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 11205,
+      "lease_id": 14814,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 13054,
+      "hotel_room_id": 0,
+      "create_datetime": 44792.44002804398,
+      "update_datetime": 44792.44009730324,
+      "create_datetime_format": "2022-08-19T03:33:38.000Z",
+      "duplicate_with": 14815
+    },
+    {
+      "profile_rental_requirements_id": 11205,
+      "lease_id": 14815,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 13054,
+      "hotel_room_id": 0,
+      "create_datetime": 44792.44009725694,
+      "update_datetime": 44792.44009725694,
+      "create_datetime_format": "2022-08-19T03:33:44.000Z",
+      "duplicate_with": 14814
+    }
+  ],
+  "14029": [
+    {
+      "profile_rental_requirements_id": 14029,
+      "lease_id": 12887,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 18159,
+      "hotel_room_id": 0,
+      "create_datetime": 44756.347646215276,
+      "update_datetime": 44834.31475991898,
+      "create_datetime_format": "2022-07-14T01:20:36.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 14029,
+      "lease_id": 12892,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 18159,
+      "hotel_room_id": 0,
+      "create_datetime": 44756.430037418984,
+      "update_datetime": 44834.31475991898,
+      "create_datetime_format": "2022-07-14T03:19:15.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 14029,
+      "lease_id": 19428,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 18159,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.31468383102,
+      "update_datetime": 44834.31475991898,
+      "create_datetime_format": "2022-09-30T00:33:08.000Z",
+      "duplicate_with": 19429
+    },
+    {
+      "profile_rental_requirements_id": 14029,
+      "lease_id": 19429,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 18159,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.31475987269,
+      "update_datetime": 44834.31475987269,
+      "create_datetime_format": "2022-09-30T00:33:15.000Z",
+      "duplicate_with": 19428
+    }
+  ],
+  "14037": [
+    {
+      "profile_rental_requirements_id": 14037,
+      "lease_id": 12737,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 18176,
+      "hotel_room_id": 0,
+      "create_datetime": 44755.60231079861,
+      "update_datetime": 44826.35683101852,
+      "create_datetime_format": "2022-07-13T07:27:19.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 14037,
+      "lease_id": 18833,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 18176,
+      "hotel_room_id": 0,
+      "create_datetime": 44826.35675694444,
+      "update_datetime": 44826.35683105324,
+      "create_datetime_format": "2022-09-22T01:33:43.000Z",
+      "duplicate_with": 18834
+    },
+    {
+      "profile_rental_requirements_id": 14037,
+      "lease_id": 18834,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 18176,
+      "hotel_room_id": 0,
+      "create_datetime": 44826.35683078704,
+      "update_datetime": 44826.35683078704,
+      "create_datetime_format": "2022-09-22T01:33:50.000Z",
+      "duplicate_with": 18833
+    }
+  ],
+  "14410": [
+    {
+      "profile_rental_requirements_id": 14410,
+      "lease_id": 13039,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 28271,
+      "hotel_room_id": 0,
+      "create_datetime": 44760.59948186343,
+      "update_datetime": 44764.312138078705,
+      "create_datetime_format": "2022-07-18T07:23:15.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 14410,
+      "lease_id": 13261,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 28271,
+      "hotel_room_id": 0,
+      "create_datetime": 44764.31201423611,
+      "update_datetime": 44764.312138078705,
+      "create_datetime_format": "2022-07-22T00:29:18.000Z",
+      "duplicate_with": 13262
+    },
+    {
+      "profile_rental_requirements_id": 14410,
+      "lease_id": 13262,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 28271,
+      "hotel_room_id": 0,
+      "create_datetime": 44764.31212002315,
+      "update_datetime": 44764.312138078705,
+      "create_datetime_format": "2022-07-22T00:29:27.000Z",
+      "duplicate_with": 13261
+    },
+    {
+      "profile_rental_requirements_id": 14410,
+      "lease_id": 13263,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 28271,
+      "hotel_room_id": 0,
+      "create_datetime": 44764.312138043984,
+      "update_datetime": 44764.312138043984,
+      "create_datetime_format": "2022-07-22T00:29:28.000Z"
+    }
+  ],
+  "14771": [
+    {
+      "profile_rental_requirements_id": 14771,
+      "lease_id": 13282,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 19625,
+      "hotel_room_id": 0,
+      "create_datetime": 44764.45833515046,
+      "update_datetime": 44768.594046527774,
+      "create_datetime_format": "2022-07-22T04:00:00.000Z",
+      "duplicate_with": 13282
+    },
+    {
+      "profile_rental_requirements_id": 14771,
+      "lease_id": 13282,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 35496,
+      "hotel_room_id": 0,
+      "create_datetime": 44764.45833515046,
+      "update_datetime": 44768.594046527774,
+      "create_datetime_format": "2022-07-22T04:00:00.000Z",
+      "duplicate_with": 13282
+    },
+    {
+      "profile_rental_requirements_id": 14771,
+      "lease_id": 13457,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 19625,
+      "hotel_room_id": 0,
+      "create_datetime": 44768.594046527774,
+      "update_datetime": 44768.594046527774,
+      "create_datetime_format": "2022-07-26T07:15:25.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 14771,
+      "lease_id": 13457,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 35496,
+      "hotel_room_id": 0,
+      "create_datetime": 44768.594046527774,
+      "update_datetime": 44768.594046527774,
+      "create_datetime_format": "2022-07-26T07:15:25.000Z"
+    }
+  ],
+  "15056": [
+    {
+      "profile_rental_requirements_id": 15056,
+      "lease_id": 13463,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 20275,
+      "hotel_room_id": 0,
+      "create_datetime": 44768.63760763889,
+      "update_datetime": 44768.63760763889,
+      "create_datetime_format": "2022-07-26T08:18:09.000Z",
+      "duplicate_with": 13464
+    },
+    {
+      "profile_rental_requirements_id": 15056,
+      "lease_id": 13464,
+      "hotel_id": 9,
+      "name": "Leipzig",
+      "itinerary_number": 20275,
+      "hotel_room_id": 0,
+      "create_datetime": 44768.63760767361,
+      "update_datetime": 44768.63760767361,
+      "create_datetime_format": "2022-07-26T08:18:09.000Z",
+      "duplicate_with": 13463
+    }
+  ],
+  "15330": [
+    {
+      "profile_rental_requirements_id": 15330,
+      "lease_id": 13662,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 20835,
+      "hotel_room_id": 0,
+      "create_datetime": 44771.51520173611,
+      "update_datetime": 44825.47530216435,
+      "create_datetime_format": "2022-07-29T05:21:53.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 15330,
+      "lease_id": 13915,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 20835,
+      "hotel_room_id": 0,
+      "create_datetime": 44776.46383969908,
+      "update_datetime": 44825.47530216435,
+      "create_datetime_format": "2022-08-03T04:07:55.000Z",
+      "duplicate_with": 13916
+    },
+    {
+      "profile_rental_requirements_id": 15330,
+      "lease_id": 13916,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 20835,
+      "hotel_room_id": 0,
+      "create_datetime": 44776.46391967592,
+      "update_datetime": 44825.47530216435,
+      "create_datetime_format": "2022-08-03T04:08:02.000Z",
+      "duplicate_with": 13915
+    },
+    {
+      "profile_rental_requirements_id": 15330,
+      "lease_id": 18786,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 20835,
+      "hotel_room_id": 0,
+      "create_datetime": 44825.47530211806,
+      "update_datetime": 44825.47530211806,
+      "create_datetime_format": "2022-09-21T04:24:26.000Z"
+    }
+  ],
+  "15387": [
+    {
+      "profile_rental_requirements_id": 15387,
+      "lease_id": 13700,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 20963,
+      "hotel_room_id": 0,
+      "create_datetime": 44772.106129479165,
+      "update_datetime": 44804.691866284724,
+      "create_datetime_format": "2022-07-29T19:32:49.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 15387,
+      "lease_id": 15601,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 20963,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.69174841435,
+      "update_datetime": 44804.691866284724,
+      "create_datetime_format": "2022-08-31T09:36:07.000Z",
+      "duplicate_with": 15602
+    },
+    {
+      "profile_rental_requirements_id": 15387,
+      "lease_id": 15602,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 20963,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.691778125,
+      "update_datetime": 44804.691866284724,
+      "create_datetime_format": "2022-08-31T09:36:09.000Z",
+      "duplicate_with": 15601
+    },
+    {
+      "profile_rental_requirements_id": 15387,
+      "lease_id": 15603,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 20963,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.69186623843,
+      "update_datetime": 44804.69186623843,
+      "create_datetime_format": "2022-08-31T09:36:17.000Z"
+    }
+  ],
+  "15435": [
+    {
+      "profile_rental_requirements_id": 15435,
+      "lease_id": 13726,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 21163,
+      "hotel_room_id": 0,
+      "create_datetime": 44773.29409614583,
+      "update_datetime": 44806.50786346065,
+      "create_datetime_format": "2022-07-31T00:03:29.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 15435,
+      "lease_id": 15736,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 21163,
+      "hotel_room_id": 0,
+      "create_datetime": 44806.5078221875,
+      "update_datetime": 44806.50786346065,
+      "create_datetime_format": "2022-09-02T05:11:15.000Z",
+      "duplicate_with": 15737
+    },
+    {
+      "profile_rental_requirements_id": 15435,
+      "lease_id": 15737,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 21163,
+      "hotel_room_id": 0,
+      "create_datetime": 44806.50785185185,
+      "update_datetime": 44806.50786346065,
+      "create_datetime_format": "2022-09-02T05:11:18.000Z",
+      "duplicate_with": 15736
+    },
+    {
+      "profile_rental_requirements_id": 15435,
+      "lease_id": 15738,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 21163,
+      "hotel_room_id": 0,
+      "create_datetime": 44806.507863425926,
+      "update_datetime": 44806.507863425926,
+      "create_datetime_format": "2022-09-02T05:11:19.000Z"
+    }
+  ],
+  "15599": [
+    {
+      "profile_rental_requirements_id": 15599,
+      "lease_id": 13821,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 21551,
+      "hotel_room_id": 0,
+      "create_datetime": 44774.73827673611,
+      "update_datetime": 44818.39485065972,
+      "create_datetime_format": "2022-08-01T10:43:07.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 15599,
+      "lease_id": 17037,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 21551,
+      "hotel_room_id": 0,
+      "create_datetime": 44812.59383831018,
+      "update_datetime": 44818.39485065972,
+      "create_datetime_format": "2022-09-08T07:15:07.000Z",
+      "duplicate_with": 17038
+    },
+    {
+      "profile_rental_requirements_id": 15599,
+      "lease_id": 17038,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 21551,
+      "hotel_room_id": 0,
+      "create_datetime": 44812.59388545139,
+      "update_datetime": 44818.39485065972,
+      "create_datetime_format": "2022-09-08T07:15:11.000Z",
+      "duplicate_with": 17037
+    },
+    {
+      "profile_rental_requirements_id": 15599,
+      "lease_id": 18196,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 21551,
+      "hotel_room_id": 0,
+      "create_datetime": 44818.394850613426,
+      "update_datetime": 44818.394850613426,
+      "create_datetime_format": "2022-09-14T02:28:35.000Z"
+    }
+  ],
+  "15832": [
+    {
+      "profile_rental_requirements_id": 15832,
+      "lease_id": 13975,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 27913,
+      "hotel_room_id": 0,
+      "create_datetime": 44777.23444424768,
+      "update_datetime": 44799.639218171294,
+      "create_datetime_format": "2022-08-03T22:37:35.000Z",
+      "duplicate_with": 13975
+    },
+    {
+      "profile_rental_requirements_id": 15832,
+      "lease_id": 13975,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 34821,
+      "hotel_room_id": 0,
+      "create_datetime": 44777.23444424768,
+      "update_datetime": 44799.639218171294,
+      "create_datetime_format": "2022-08-03T22:37:35.000Z",
+      "duplicate_with": 13975
+    },
+    {
+      "profile_rental_requirements_id": 15832,
+      "lease_id": 15294,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 27913,
+      "hotel_room_id": 0,
+      "create_datetime": 44799.63921813657,
+      "update_datetime": 44799.63921813657,
+      "create_datetime_format": "2022-08-26T08:20:28.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 15832,
+      "lease_id": 15294,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 34821,
+      "hotel_room_id": 0,
+      "create_datetime": 44799.63921813657,
+      "update_datetime": 44799.63921813657,
+      "create_datetime_format": "2022-08-26T08:20:28.000Z"
+    }
+  ],
+  "15838": [
+    {
+      "profile_rental_requirements_id": 15838,
+      "lease_id": 13977,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 21981,
+      "hotel_room_id": 0,
+      "create_datetime": 44777.3115721412,
+      "update_datetime": 44782.33605362268,
+      "create_datetime_format": "2022-08-04T00:28:39.000Z",
+      "duplicate_with": 13977
+    },
+    {
+      "profile_rental_requirements_id": 15838,
+      "lease_id": 13977,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 28068,
+      "hotel_room_id": 0,
+      "create_datetime": 44777.3115721412,
+      "update_datetime": 44782.33605362268,
+      "create_datetime_format": "2022-08-04T00:28:39.000Z",
+      "duplicate_with": 13977
+    },
+    {
+      "profile_rental_requirements_id": 15838,
+      "lease_id": 14234,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 21981,
+      "hotel_room_id": 0,
+      "create_datetime": 44782.33605362268,
+      "update_datetime": 44782.33605362268,
+      "create_datetime_format": "2022-08-09T01:03:55.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 15838,
+      "lease_id": 14234,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 28068,
+      "hotel_room_id": 0,
+      "create_datetime": 44782.33605362268,
+      "update_datetime": 44782.33605362268,
+      "create_datetime_format": "2022-08-09T01:03:55.000Z"
+    }
+  ],
+  "16145": [
+    {
+      "profile_rental_requirements_id": 16145,
+      "lease_id": 14148,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 22526,
+      "hotel_room_id": 0,
+      "create_datetime": 44780.671789733795,
+      "update_datetime": 44817.557833101855,
+      "create_datetime_format": "2022-08-07T09:07:22.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 16145,
+      "lease_id": 18137,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 22526,
+      "hotel_room_id": 0,
+      "create_datetime": 44817.55686909722,
+      "update_datetime": 44817.557833101855,
+      "create_datetime_format": "2022-09-13T06:21:53.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 16145,
+      "lease_id": 18138,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 22526,
+      "hotel_room_id": 0,
+      "create_datetime": 44817.557721377314,
+      "update_datetime": 44817.557833101855,
+      "create_datetime_format": "2022-09-13T06:23:07.000Z",
+      "duplicate_with": 18139
+    },
+    {
+      "profile_rental_requirements_id": 16145,
+      "lease_id": 18139,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 22526,
+      "hotel_room_id": 0,
+      "create_datetime": 44817.557833101855,
+      "update_datetime": 44817.557833101855,
+      "create_datetime_format": "2022-09-13T06:23:16.000Z",
+      "duplicate_with": 18138
+    }
+  ],
+  "16173": [
+    {
+      "profile_rental_requirements_id": 16173,
+      "lease_id": 14170,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 29668,
+      "hotel_room_id": 0,
+      "create_datetime": 44781.414375231485,
+      "update_datetime": 44830.55771119213,
+      "create_datetime_format": "2022-08-08T02:56:42.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 16173,
+      "lease_id": 15643,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 29668,
+      "hotel_room_id": 0,
+      "create_datetime": 44805.31289366898,
+      "update_datetime": 44830.55771119213,
+      "create_datetime_format": "2022-09-01T00:30:34.000Z",
+      "duplicate_with": 15644
+    },
+    {
+      "profile_rental_requirements_id": 16173,
+      "lease_id": 15644,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 29668,
+      "hotel_room_id": 0,
+      "create_datetime": 44805.312988541664,
+      "update_datetime": 44830.55771119213,
+      "create_datetime_format": "2022-09-01T00:30:42.000Z",
+      "duplicate_with": 15643
+    },
+    {
+      "profile_rental_requirements_id": 16173,
+      "lease_id": 18842,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 29668,
+      "hotel_room_id": 0,
+      "create_datetime": 44826.38865170139,
+      "update_datetime": 44830.55771119213,
+      "create_datetime_format": "2022-09-22T02:19:39.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 16173,
+      "lease_id": 19085,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 29668,
+      "hotel_room_id": 0,
+      "create_datetime": 44830.55771114583,
+      "update_datetime": 44830.55771114583,
+      "create_datetime_format": "2022-09-26T06:23:06.000Z"
+    }
+  ],
+  "16505": [
+    {
+      "profile_rental_requirements_id": 16505,
+      "lease_id": 14382,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 22158,
+      "hotel_room_id": 0,
+      "create_datetime": 44784.4173034375,
+      "update_datetime": 44784.4173034375,
+      "create_datetime_format": "2022-08-11T03:00:55.000Z",
+      "duplicate_with": 14383
+    },
+    {
+      "profile_rental_requirements_id": 16505,
+      "lease_id": 14383,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 22158,
+      "hotel_room_id": 0,
+      "create_datetime": 44784.4173034375,
+      "update_datetime": 44784.4173034375,
+      "create_datetime_format": "2022-08-11T03:00:55.000Z",
+      "duplicate_with": 14382
+    }
+  ],
+  "16566": [
+    {
+      "profile_rental_requirements_id": 16566,
+      "lease_id": 14426,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 24992,
+      "hotel_room_id": 0,
+      "create_datetime": 44784.63407260417,
+      "update_datetime": 44799.3552741088,
+      "create_datetime_format": "2022-08-11T08:13:03.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 16566,
+      "lease_id": 15251,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 24992,
+      "hotel_room_id": 0,
+      "create_datetime": 44799.355169675924,
+      "update_datetime": 44799.3552741088,
+      "create_datetime_format": "2022-08-26T01:31:26.000Z",
+      "duplicate_with": 15252
+    },
+    {
+      "profile_rental_requirements_id": 16566,
+      "lease_id": 15252,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 24992,
+      "hotel_room_id": 0,
+      "create_datetime": 44799.35527407407,
+      "update_datetime": 44799.35527407407,
+      "create_datetime_format": "2022-08-26T01:31:35.000Z",
+      "duplicate_with": 15251
+    }
+  ],
+  "17051": [
+    {
+      "profile_rental_requirements_id": 17051,
+      "lease_id": 14480,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 25645,
+      "hotel_room_id": 0,
+      "create_datetime": 44785.55648622685,
+      "update_datetime": 44832.44268892361,
+      "create_datetime_format": "2022-08-12T06:21:20.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17051,
+      "lease_id": 18145,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 25645,
+      "hotel_room_id": 0,
+      "create_datetime": 44817.59942850695,
+      "update_datetime": 44832.44268892361,
+      "create_datetime_format": "2022-09-13T07:23:10.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17051,
+      "lease_id": 18146,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 25645,
+      "hotel_room_id": 0,
+      "create_datetime": 44817.600255289355,
+      "update_datetime": 44832.44268892361,
+      "create_datetime_format": "2022-09-13T07:24:22.000Z",
+      "duplicate_with": 18147
+    },
+    {
+      "profile_rental_requirements_id": 17051,
+      "lease_id": 18147,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 25645,
+      "hotel_room_id": 0,
+      "create_datetime": 44817.60035674769,
+      "update_datetime": 44832.44268892361,
+      "create_datetime_format": "2022-09-13T07:24:30.000Z",
+      "duplicate_with": 18146
+    },
+    {
+      "profile_rental_requirements_id": 17051,
+      "lease_id": 19264,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 25645,
+      "hotel_room_id": 0,
+      "create_datetime": 44832.44268888889,
+      "update_datetime": 44832.44268888889,
+      "create_datetime_format": "2022-09-28T03:37:28.000Z"
+    }
+  ],
+  "17506": [
+    {
+      "profile_rental_requirements_id": 17506,
+      "lease_id": 14759,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 26513,
+      "hotel_room_id": 0,
+      "create_datetime": 44791.47857832176,
+      "update_datetime": 44837.50902056713,
+      "create_datetime_format": "2022-08-18T04:29:09.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17506,
+      "lease_id": 19622,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 26513,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.50901412037,
+      "update_datetime": 44837.50902060185,
+      "create_datetime_format": "2022-10-03T05:12:58.000Z",
+      "duplicate_with": 19623
+    },
+    {
+      "profile_rental_requirements_id": 17506,
+      "lease_id": 19623,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 26513,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.50902052083,
+      "update_datetime": 44837.50902052083,
+      "create_datetime_format": "2022-10-03T05:12:59.000Z",
+      "duplicate_with": 19622
+    }
+  ],
+  "17565": [
+    {
+      "profile_rental_requirements_id": 17565,
+      "lease_id": 14795,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 26638,
+      "hotel_room_id": 0,
+      "create_datetime": 44791.926014930556,
+      "update_datetime": 44806.638710844905,
+      "create_datetime_format": "2022-08-18T15:13:27.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17565,
+      "lease_id": 15220,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 26638,
+      "hotel_room_id": 0,
+      "create_datetime": 44798.602989467596,
+      "update_datetime": 44806.638710844905,
+      "create_datetime_format": "2022-08-25T07:28:18.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17565,
+      "lease_id": 15566,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 26638,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.579504050926,
+      "update_datetime": 44806.638710879626,
+      "create_datetime_format": "2022-08-31T06:54:29.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17565,
+      "lease_id": 15567,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 26638,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.57962913194,
+      "update_datetime": 44806.638710879626,
+      "create_datetime_format": "2022-08-31T06:54:39.000Z",
+      "duplicate_with": 15568
+    },
+    {
+      "profile_rental_requirements_id": 17565,
+      "lease_id": 15568,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 26638,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.579647604165,
+      "update_datetime": 44806.638710879626,
+      "create_datetime_format": "2022-08-31T06:54:41.000Z",
+      "duplicate_with": 15567
+    },
+    {
+      "profile_rental_requirements_id": 17565,
+      "lease_id": 15569,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 26638,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.579659375,
+      "update_datetime": 44806.638710879626,
+      "create_datetime_format": "2022-08-31T06:54:42.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17565,
+      "lease_id": 15782,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 26638,
+      "hotel_room_id": 0,
+      "create_datetime": 44806.63871079861,
+      "update_datetime": 44806.63871079861,
+      "create_datetime_format": "2022-09-02T08:19:44.000Z"
+    }
+  ],
+  "17779": [
+    {
+      "profile_rental_requirements_id": 17779,
+      "lease_id": 14940,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 27105,
+      "hotel_room_id": 0,
+      "create_datetime": 44795.41774748843,
+      "update_datetime": 44796.24766392361,
+      "create_datetime_format": "2022-08-22T03:01:33.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17779,
+      "lease_id": 15028,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 27105,
+      "hotel_room_id": 0,
+      "create_datetime": 44796.247615659726,
+      "update_datetime": 44796.24766392361,
+      "create_datetime_format": "2022-08-22T22:56:34.000Z",
+      "duplicate_with": 15029
+    },
+    {
+      "profile_rental_requirements_id": 17779,
+      "lease_id": 15029,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 27105,
+      "hotel_room_id": 0,
+      "create_datetime": 44796.24765208333,
+      "update_datetime": 44796.24766392361,
+      "create_datetime_format": "2022-08-22T22:56:37.000Z",
+      "duplicate_with": 15028
+    },
+    {
+      "profile_rental_requirements_id": 17779,
+      "lease_id": 15030,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 27105,
+      "hotel_room_id": 0,
+      "create_datetime": 44796.24766388889,
+      "update_datetime": 44796.24766388889,
+      "create_datetime_format": "2022-08-22T22:56:38.000Z"
+    }
+  ],
+  "17793": [
+    {
+      "profile_rental_requirements_id": 17793,
+      "lease_id": 14952,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27128,
+      "hotel_room_id": 0,
+      "create_datetime": 44795.501489386574,
+      "update_datetime": 44812.562617511576,
+      "create_datetime_format": "2022-08-22T05:02:08.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17793,
+      "lease_id": 14957,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27128,
+      "hotel_room_id": 0,
+      "create_datetime": 44795.52878113426,
+      "update_datetime": 44812.56261755787,
+      "create_datetime_format": "2022-08-22T05:41:26.000Z",
+      "duplicate_with": 14958
+    },
+    {
+      "profile_rental_requirements_id": 17793,
+      "lease_id": 14958,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27128,
+      "hotel_room_id": 0,
+      "create_datetime": 44795.52878364583,
+      "update_datetime": 44812.56261755787,
+      "create_datetime_format": "2022-08-22T05:41:26.000Z",
+      "duplicate_with": 14957
+    },
+    {
+      "profile_rental_requirements_id": 17793,
+      "lease_id": 14959,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27128,
+      "hotel_room_id": 0,
+      "create_datetime": 44795.52879174768,
+      "update_datetime": 44812.56261755787,
+      "create_datetime_format": "2022-08-22T05:41:27.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17793,
+      "lease_id": 14960,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27128,
+      "hotel_room_id": 0,
+      "create_datetime": 44795.52880385417,
+      "update_datetime": 44812.56261755787,
+      "create_datetime_format": "2022-08-22T05:41:28.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17793,
+      "lease_id": 14961,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27128,
+      "hotel_room_id": 0,
+      "create_datetime": 44795.528815625,
+      "update_datetime": 44812.56261755787,
+      "create_datetime_format": "2022-08-22T05:41:29.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 17793,
+      "lease_id": 17023,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27128,
+      "hotel_room_id": 0,
+      "create_datetime": 44812.562617511576,
+      "update_datetime": 44812.562617511576,
+      "create_datetime_format": "2022-09-08T06:30:10.000Z"
+    }
+  ],
+  "18039": [
+    {
+      "profile_rental_requirements_id": 18039,
+      "lease_id": 15141,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 27597,
+      "hotel_room_id": 0,
+      "create_datetime": 44797.50904019676,
+      "update_datetime": 44837.50902071759,
+      "create_datetime_format": "2022-08-24T05:13:01.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18039,
+      "lease_id": 19621,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 27597,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.5089377662,
+      "update_datetime": 44837.50902075232,
+      "create_datetime_format": "2022-10-03T05:12:52.000Z",
+      "duplicate_with": 19624
+    },
+    {
+      "profile_rental_requirements_id": 18039,
+      "lease_id": 19624,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 27597,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.50902060185,
+      "update_datetime": 44837.50902060185,
+      "create_datetime_format": "2022-10-03T05:12:59.000Z",
+      "duplicate_with": 19621
+    }
+  ],
+  "18050": [
+    {
+      "profile_rental_requirements_id": 18050,
+      "lease_id": 15155,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27621,
+      "hotel_room_id": 0,
+      "create_datetime": 44797.59936018519,
+      "update_datetime": 44797.6192869213,
+      "create_datetime_format": "2022-08-24T07:23:04.000Z",
+      "duplicate_with": 15155
+    },
+    {
+      "profile_rental_requirements_id": 18050,
+      "lease_id": 15155,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 33538,
+      "hotel_room_id": 0,
+      "create_datetime": 44797.59936018519,
+      "update_datetime": 44797.6192869213,
+      "create_datetime_format": "2022-08-24T07:23:04.000Z",
+      "duplicate_with": 15155
+    },
+    {
+      "profile_rental_requirements_id": 18050,
+      "lease_id": 15156,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27621,
+      "hotel_room_id": 0,
+      "create_datetime": 44797.619275578705,
+      "update_datetime": 44797.6192869213,
+      "create_datetime_format": "2022-08-24T07:51:45.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18050,
+      "lease_id": 15156,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 33538,
+      "hotel_room_id": 0,
+      "create_datetime": 44797.619275578705,
+      "update_datetime": 44797.6192869213,
+      "create_datetime_format": "2022-08-24T07:51:45.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18050,
+      "lease_id": 15157,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 27621,
+      "hotel_room_id": 0,
+      "create_datetime": 44797.61928688658,
+      "update_datetime": 44797.61928688658,
+      "create_datetime_format": "2022-08-24T07:51:46.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18050,
+      "lease_id": 15157,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 33538,
+      "hotel_room_id": 0,
+      "create_datetime": 44797.61928688658,
+      "update_datetime": 44797.61928688658,
+      "create_datetime_format": "2022-08-24T07:51:46.000Z"
+    }
+  ],
+  "18467": [
+    {
+      "profile_rental_requirements_id": 18467,
+      "lease_id": 15466,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 28547,
+      "hotel_room_id": 0,
+      "create_datetime": 44803.53732820602,
+      "update_datetime": 44816.62519355324,
+      "create_datetime_format": "2022-08-30T05:53:45.000Z",
+      "duplicate_with": 15467
+    },
+    {
+      "profile_rental_requirements_id": 18467,
+      "lease_id": 15467,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 28547,
+      "hotel_room_id": 0,
+      "create_datetime": 44803.537328275466,
+      "update_datetime": 44816.62519355324,
+      "create_datetime_format": "2022-08-30T05:53:45.000Z",
+      "duplicate_with": 15466
+    },
+    {
+      "profile_rental_requirements_id": 18467,
+      "lease_id": 18080,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 28547,
+      "hotel_room_id": 0,
+      "create_datetime": 44816.62519351852,
+      "update_datetime": 44816.62519351852,
+      "create_datetime_format": "2022-09-12T08:00:16.000Z"
+    }
+  ],
+  "18545": [
+    {
+      "profile_rental_requirements_id": 18545,
+      "lease_id": 15557,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 29097,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.54490119213,
+      "update_datetime": 44804.618372453704,
+      "create_datetime_format": "2022-08-31T06:04:39.000Z",
+      "duplicate_with": 15558
+    },
+    {
+      "profile_rental_requirements_id": 18545,
+      "lease_id": 15558,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 29097,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.54501026621,
+      "update_datetime": 44804.618372453704,
+      "create_datetime_format": "2022-08-31T06:04:48.000Z",
+      "duplicate_with": 15557
+    },
+    {
+      "profile_rental_requirements_id": 18545,
+      "lease_id": 15587,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 29097,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.618372453704,
+      "update_datetime": 44804.618372453704,
+      "create_datetime_format": "2022-08-31T07:50:27.000Z"
+    }
+  ],
+  "18593": [
+    {
+      "profile_rental_requirements_id": 18593,
+      "lease_id": 15553,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 29356,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.540870717596,
+      "update_datetime": 44805.4420565625,
+      "create_datetime_format": "2022-08-31T05:58:51.000Z",
+      "duplicate_with": 15554
+    },
+    {
+      "profile_rental_requirements_id": 18593,
+      "lease_id": 15554,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 29356,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.540915972226,
+      "update_datetime": 44805.4420565625,
+      "create_datetime_format": "2022-08-31T05:58:55.000Z",
+      "duplicate_with": 15553
+    },
+    {
+      "profile_rental_requirements_id": 18593,
+      "lease_id": 15555,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 29356,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.54092233796,
+      "update_datetime": 44805.4420565625,
+      "create_datetime_format": "2022-08-31T05:58:55.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18593,
+      "lease_id": 15585,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 29356,
+      "hotel_room_id": 0,
+      "create_datetime": 44804.617115891204,
+      "update_datetime": 44805.442056597225,
+      "create_datetime_format": "2022-08-31T07:48:38.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18593,
+      "lease_id": 15665,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 29356,
+      "hotel_room_id": 0,
+      "create_datetime": 44805.4420565625,
+      "update_datetime": 44805.4420565625,
+      "create_datetime_format": "2022-09-01T03:36:33.000Z"
+    }
+  ],
+  "18717": [
+    {
+      "profile_rental_requirements_id": 18717,
+      "lease_id": 15648,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 29682,
+      "hotel_room_id": 0,
+      "create_datetime": 44805.353000613424,
+      "update_datetime": 44805.44031658565,
+      "create_datetime_format": "2022-09-01T01:28:19.000Z",
+      "duplicate_with": 15648
+    },
+    {
+      "profile_rental_requirements_id": 18717,
+      "lease_id": 15648,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 32008,
+      "hotel_room_id": 0,
+      "create_datetime": 44805.353000613424,
+      "update_datetime": 44805.44031658565,
+      "create_datetime_format": "2022-09-01T01:28:19.000Z",
+      "duplicate_with": 15648
+    },
+    {
+      "profile_rental_requirements_id": 18717,
+      "lease_id": 15649,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 29682,
+      "hotel_room_id": 0,
+      "create_datetime": 44805.358255011575,
+      "update_datetime": 44805.44031658565,
+      "create_datetime_format": "2022-09-01T01:35:53.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18717,
+      "lease_id": 15649,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 32008,
+      "hotel_room_id": 0,
+      "create_datetime": 44805.358255011575,
+      "update_datetime": 44805.44031658565,
+      "create_datetime_format": "2022-09-01T01:35:53.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18717,
+      "lease_id": 15664,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 29682,
+      "hotel_room_id": 0,
+      "create_datetime": 44805.44031655093,
+      "update_datetime": 44805.44031655093,
+      "create_datetime_format": "2022-09-01T03:34:03.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18717,
+      "lease_id": 15664,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 32008,
+      "hotel_room_id": 0,
+      "create_datetime": 44805.44031655093,
+      "update_datetime": 44805.44031655093,
+      "create_datetime_format": "2022-09-01T03:34:03.000Z"
+    }
+  ],
+  "18895": [
+    {
+      "profile_rental_requirements_id": 18895,
+      "lease_id": 15792,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 30097,
+      "hotel_room_id": 0,
+      "create_datetime": 44806.82903101852,
+      "update_datetime": 44806.8290375,
+      "create_datetime_format": "2022-09-02T12:53:48.000Z",
+      "duplicate_with": 15793
+    },
+    {
+      "profile_rental_requirements_id": 18895,
+      "lease_id": 15793,
+      "hotel_id": 10,
+      "name": "Dortmund",
+      "itinerary_number": 30097,
+      "hotel_room_id": 0,
+      "create_datetime": 44806.82903101852,
+      "update_datetime": 44806.8290375,
+      "create_datetime_format": "2022-09-02T12:53:48.000Z",
+      "duplicate_with": 15792
+    }
+  ],
+  "18990": [
+    {
+      "profile_rental_requirements_id": 18990,
+      "lease_id": 15851,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 30268,
+      "hotel_room_id": 0,
+      "create_datetime": 44808.63912866898,
+      "update_datetime": 44819.3338102662,
+      "create_datetime_format": "2022-09-04T08:20:20.000Z",
+      "duplicate_with": 15851
+    },
+    {
+      "profile_rental_requirements_id": 18990,
+      "lease_id": 15851,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 37557,
+      "hotel_room_id": 0,
+      "create_datetime": 44808.63912866898,
+      "update_datetime": 44819.3338102662,
+      "create_datetime_format": "2022-09-04T08:20:20.000Z",
+      "duplicate_with": 15851
+    },
+    {
+      "profile_rental_requirements_id": 18990,
+      "lease_id": 16978,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 30268,
+      "hotel_room_id": 0,
+      "create_datetime": 44812.29280405093,
+      "update_datetime": 44819.3338102662,
+      "create_datetime_format": "2022-09-08T00:01:38.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18990,
+      "lease_id": 16978,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 37557,
+      "hotel_room_id": 0,
+      "create_datetime": 44812.29280405093,
+      "update_datetime": 44819.3338102662,
+      "create_datetime_format": "2022-09-08T00:01:38.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18990,
+      "lease_id": 18270,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 30268,
+      "hotel_room_id": 0,
+      "create_datetime": 44819.333810219905,
+      "update_datetime": 44819.333810219905,
+      "create_datetime_format": "2022-09-15T01:00:41.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 18990,
+      "lease_id": 18270,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 37557,
+      "hotel_room_id": 0,
+      "create_datetime": 44819.333810219905,
+      "update_datetime": 44819.333810219905,
+      "create_datetime_format": "2022-09-15T01:00:41.000Z"
+    }
+  ],
+  "20005": [
+    {
+      "profile_rental_requirements_id": 20005,
+      "lease_id": 16844,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 31475,
+      "hotel_room_id": 0,
+      "create_datetime": 44810.33351079861,
+      "update_datetime": 44823.35909903935,
+      "create_datetime_format": "2022-09-06T01:00:15.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 20005,
+      "lease_id": 18450,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 31475,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.33636084491,
+      "update_datetime": 44823.35909903935,
+      "create_datetime_format": "2022-09-19T01:04:21.000Z",
+      "duplicate_with": 18451
+    },
+    {
+      "profile_rental_requirements_id": 20005,
+      "lease_id": 18451,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 31475,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.33642002315,
+      "update_datetime": 44823.35909903935,
+      "create_datetime_format": "2022-09-19T01:04:26.000Z",
+      "duplicate_with": 18450
+    },
+    {
+      "profile_rental_requirements_id": 20005,
+      "lease_id": 18458,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 31475,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.35909899305,
+      "update_datetime": 44823.35909899305,
+      "create_datetime_format": "2022-09-19T01:37:06.000Z"
+    }
+  ],
+  "20281": [
+    {
+      "profile_rental_requirements_id": 20281,
+      "lease_id": 17014,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 31969,
+      "hotel_room_id": 0,
+      "create_datetime": 44812.54995428241,
+      "update_datetime": 44812.54995428241,
+      "create_datetime_format": "2022-09-08T06:11:56.000Z",
+      "duplicate_with": 17015
+    },
+    {
+      "profile_rental_requirements_id": 20281,
+      "lease_id": 17015,
+      "hotel_id": 7,
+      "name": "Wroclaw",
+      "itinerary_number": 31969,
+      "hotel_room_id": 0,
+      "create_datetime": 44812.54995428241,
+      "update_datetime": 44812.54998402778,
+      "create_datetime_format": "2022-09-08T06:11:56.000Z",
+      "duplicate_with": 17014
+    }
+  ],
+  "20340": [
+    {
+      "profile_rental_requirements_id": 20340,
+      "lease_id": 17090,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 32070,
+      "hotel_room_id": 0,
+      "create_datetime": 44813.35502056713,
+      "update_datetime": 44813.3550684375,
+      "create_datetime_format": "2022-09-09T01:31:13.000Z",
+      "duplicate_with": 17091
+    },
+    {
+      "profile_rental_requirements_id": 20340,
+      "lease_id": 17091,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 32070,
+      "hotel_room_id": 0,
+      "create_datetime": 44813.35506840278,
+      "update_datetime": 44813.35506840278,
+      "create_datetime_format": "2022-09-09T01:31:17.000Z",
+      "duplicate_with": 17090
+    }
+  ],
+  "20418": [
+    {
+      "profile_rental_requirements_id": 20418,
+      "lease_id": 17150,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 32227,
+      "hotel_room_id": 0,
+      "create_datetime": 44814.227341550926,
+      "update_datetime": 44814.227341550926,
+      "create_datetime_format": "2022-09-09T22:27:22.000Z",
+      "duplicate_with": 17151
+    },
+    {
+      "profile_rental_requirements_id": 20418,
+      "lease_id": 17151,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 32227,
+      "hotel_room_id": 0,
+      "create_datetime": 44814.227341550926,
+      "update_datetime": 44814.227341550926,
+      "create_datetime_format": "2022-09-09T22:27:22.000Z",
+      "duplicate_with": 17150
+    }
+  ],
+  "21372": [
+    {
+      "profile_rental_requirements_id": 21372,
+      "lease_id": 18060,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 33333,
+      "hotel_room_id": 0,
+      "create_datetime": 44816.506997337965,
+      "update_datetime": 44817.370125497684,
+      "create_datetime_format": "2022-09-12T05:10:04.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 21372,
+      "lease_id": 18117,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 33333,
+      "hotel_room_id": 0,
+      "create_datetime": 44817.37006670139,
+      "update_datetime": 44817.370125497684,
+      "create_datetime_format": "2022-09-13T01:52:53.000Z",
+      "duplicate_with": 18118
+    },
+    {
+      "profile_rental_requirements_id": 21372,
+      "lease_id": 18118,
+      "hotel_id": 4,
+      "name": "Łódź Rewolucji",
+      "itinerary_number": 33333,
+      "hotel_room_id": 0,
+      "create_datetime": 44817.37012546296,
+      "update_datetime": 44817.37012546296,
+      "create_datetime_format": "2022-09-13T01:52:58.000Z",
+      "duplicate_with": 18117
+    }
+  ],
+  "21398": [
+    {
+      "profile_rental_requirements_id": 21398,
+      "lease_id": 18074,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 33371,
+      "hotel_room_id": 0,
+      "create_datetime": 44816.59767403935,
+      "update_datetime": 44832.492546643516,
+      "create_datetime_format": "2022-09-12T07:20:39.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 21398,
+      "lease_id": 18182,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 33371,
+      "hotel_room_id": 0,
+      "create_datetime": 44818.33767908565,
+      "update_datetime": 44832.492546643516,
+      "create_datetime_format": "2022-09-14T01:06:15.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 21398,
+      "lease_id": 19275,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 33371,
+      "hotel_room_id": 0,
+      "create_datetime": 44832.49235644676,
+      "update_datetime": 44832.492546643516,
+      "create_datetime_format": "2022-09-28T04:48:59.000Z",
+      "duplicate_with": 19276
+    },
+    {
+      "profile_rental_requirements_id": 21398,
+      "lease_id": 19276,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 33371,
+      "hotel_room_id": 0,
+      "create_datetime": 44832.492454085645,
+      "update_datetime": 44832.492546643516,
+      "create_datetime_format": "2022-09-28T04:49:08.000Z",
+      "duplicate_with": 19275
+    },
+    {
+      "profile_rental_requirements_id": 21398,
+      "lease_id": 19277,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 33371,
+      "hotel_room_id": 0,
+      "create_datetime": 44832.492546608795,
+      "update_datetime": 44832.492546608795,
+      "create_datetime_format": "2022-09-28T04:49:16.000Z"
+    }
+  ],
+  "21882": [
+    {
+      "profile_rental_requirements_id": 21882,
+      "lease_id": 18449,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 34604,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.334197916665,
+      "update_datetime": 44823.394735532405,
+      "create_datetime_format": "2022-09-19T01:01:14.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 21882,
+      "lease_id": 18464,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 34604,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.39210454861,
+      "update_datetime": 44823.394735532405,
+      "create_datetime_format": "2022-09-19T02:24:37.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 21882,
+      "lease_id": 18465,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 34604,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.39463603009,
+      "update_datetime": 44823.394735532405,
+      "create_datetime_format": "2022-09-19T02:28:16.000Z",
+      "duplicate_with": 18466
+    },
+    {
+      "profile_rental_requirements_id": 21882,
+      "lease_id": 18466,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 34604,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.394722997684,
+      "update_datetime": 44823.394735532405,
+      "create_datetime_format": "2022-09-19T02:28:24.000Z",
+      "duplicate_with": 18465
+    },
+    {
+      "profile_rental_requirements_id": 21882,
+      "lease_id": 18467,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 34604,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.39472847222,
+      "update_datetime": 44823.394735532405,
+      "create_datetime_format": "2022-09-19T02:28:24.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 21882,
+      "lease_id": 18468,
+      "hotel_id": 2,
+      "name": "Lyngby",
+      "itinerary_number": 34604,
+      "hotel_room_id": 0,
+      "create_datetime": 44823.394735497684,
+      "update_datetime": 44823.394735497684,
+      "create_datetime_format": "2022-09-19T02:28:25.000Z"
+    }
+  ],
+  "22403": [
+    {
+      "profile_rental_requirements_id": 22403,
+      "lease_id": 18897,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 35845,
+      "hotel_room_id": 0,
+      "create_datetime": 44826.95686478009,
+      "update_datetime": 44837.50932936343,
+      "create_datetime_format": "2022-09-22T15:57:53.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 22403,
+      "lease_id": 19138,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 35845,
+      "hotel_room_id": 0,
+      "create_datetime": 44831.35254309028,
+      "update_datetime": 44837.50932936343,
+      "create_datetime_format": "2022-09-27T01:27:39.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 22403,
+      "lease_id": 19615,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 35845,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.50730520833,
+      "update_datetime": 44837.50932936343,
+      "create_datetime_format": "2022-10-03T05:10:31.000Z",
+      "duplicate_with": 19616
+    },
+    {
+      "profile_rental_requirements_id": 22403,
+      "lease_id": 19616,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 35845,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.50739818287,
+      "update_datetime": 44837.50932936343,
+      "create_datetime_format": "2022-10-03T05:10:39.000Z",
+      "duplicate_with": 19615
+    },
+    {
+      "profile_rental_requirements_id": 22403,
+      "lease_id": 19630,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 35845,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.50932931713,
+      "update_datetime": 44837.50932931713,
+      "create_datetime_format": "2022-10-03T05:13:26.000Z"
+    }
+  ],
+  "22425": [
+    {
+      "profile_rental_requirements_id": 22425,
+      "lease_id": 18914,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 35890,
+      "hotel_room_id": 0,
+      "create_datetime": 44827.398573645834,
+      "update_datetime": 44827.398573645834,
+      "create_datetime_format": "2022-09-23T02:33:56.000Z",
+      "duplicate_with": 18915
+    },
+    {
+      "profile_rental_requirements_id": 22425,
+      "lease_id": 18915,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 35890,
+      "hotel_room_id": 0,
+      "create_datetime": 44827.398573645834,
+      "update_datetime": 44827.398593784725,
+      "create_datetime_format": "2022-09-23T02:33:56.000Z",
+      "duplicate_with": 18914
+    }
+  ],
+  "22998": [
+    {
+      "profile_rental_requirements_id": 22998,
+      "lease_id": 19431,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 37206,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.34090466435,
+      "update_datetime": 44834.36912271991,
+      "create_datetime_format": "2022-09-30T01:10:54.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 22998,
+      "lease_id": 19437,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 37206,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.36902175926,
+      "update_datetime": 44834.36912271991,
+      "create_datetime_format": "2022-09-30T01:51:23.000Z",
+      "duplicate_with": 19438
+    },
+    {
+      "profile_rental_requirements_id": 22998,
+      "lease_id": 19438,
+      "hotel_id": 5,
+      "name": "Łódź Rembielińskiego",
+      "itinerary_number": 37206,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.36912271991,
+      "update_datetime": 44834.36912271991,
+      "create_datetime_format": "2022-09-30T01:51:32.000Z",
+      "duplicate_with": 19437
+    }
+  ],
+  "23016": [
+    {
+      "profile_rental_requirements_id": 23016,
+      "lease_id": 19453,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 37235,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.48206380787,
+      "update_datetime": 44834.58756327546,
+      "create_datetime_format": "2022-09-30T04:34:10.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 23016,
+      "lease_id": 19476,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 37235,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.58745096065,
+      "update_datetime": 44834.58756327546,
+      "create_datetime_format": "2022-09-30T07:05:55.000Z"
+    },
+    {
+      "profile_rental_requirements_id": 23016,
+      "lease_id": 19477,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 37235,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.587558101855,
+      "update_datetime": 44834.58756327546,
+      "create_datetime_format": "2022-09-30T07:06:05.000Z",
+      "duplicate_with": 19478
+    },
+    {
+      "profile_rental_requirements_id": 23016,
+      "lease_id": 19478,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 37235,
+      "hotel_room_id": 0,
+      "create_datetime": 44834.587563229165,
+      "update_datetime": 44834.587563229165,
+      "create_datetime_format": "2022-09-30T07:06:05.000Z",
+      "duplicate_with": 19477
+    }
+  ],
+  "23194": [
+    {
+      "profile_rental_requirements_id": 23194,
+      "lease_id": 19651,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 37800,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.58871423611,
+      "update_datetime": 44837.591268668984,
+      "create_datetime_format": "2022-10-03T07:07:44.000Z",
+      "duplicate_with": 19652
+    },
+    {
+      "profile_rental_requirements_id": 23194,
+      "lease_id": 19652,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 37800,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.58871423611,
+      "update_datetime": 44837.58871423611,
+      "create_datetime_format": "2022-10-03T07:07:44.000Z",
+      "duplicate_with": 19651
+    },
+    {
+      "profile_rental_requirements_id": 23194,
+      "lease_id": 19653,
+      "hotel_id": 6,
+      "name": "Katowice",
+      "itinerary_number": 37800,
+      "hotel_room_id": 0,
+      "create_datetime": 44837.58871454861,
+      "update_datetime": 44837.58871454861,
+      "create_datetime_format": "2022-10-03T07:07:44.000Z"
+    }
+  ]
+}

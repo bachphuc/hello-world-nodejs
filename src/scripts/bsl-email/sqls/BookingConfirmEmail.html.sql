@@ -1,0 +1,663 @@
+
+    UPDATE RPM_Message_Template
+    SET Email_Body_HTML_With_Placeholders = '<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+<meta charset="utf-8" />
+<meta content="width=device-width" name="viewport" />
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta name="x-apple-disable-message-reformatting" />
+<meta content="telephone=no,address=no,email=no,date=no,url=no" name="format-detection" />
+<title>Booking Confirm Email </title>
+<!--[if mso]>
+            <style>
+                * {
+                    font-family: sans-serif !important;
+                }
+            </style>
+        <![endif]-->
+<!--[if !mso]><!-->
+<!-- <![endif]-->
+<style>
+html {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+* {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+td {
+    vertical-align: top;
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+}
+a {
+    text-decoration: none;
+}
+img {
+    -ms-interpolation-mode:bicubic;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+    u ~ div .email-container {
+        min-width: 320px !important;
+    }
+}
+@media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+    u ~ div .email-container {
+        min-width: 375px !important;
+    }
+}
+@media only screen and (min-device-width: 414px) {
+    u ~ div .email-container {
+        min-width: 414px !important;
+    }
+}
+
+</style>
+<!--[if gte mso 9]>
+        <xml>
+            <o:OfficeDocumentSettings>
+                <o:AllowPNG/>
+                <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+<style>
+@media only screen and (max-device-width: 599px), only screen and (max-width: 599px) {
+
+    .eh {
+        height:auto !important;
+    }
+    .desktop {
+        display: none !important;
+        height: 0 !important;
+        margin: 0 !important;
+        max-height: 0 !important;
+        overflow: hidden !important;
+        padding: 0 !important;
+        visibility: hidden !important;
+        width: 0 !important;
+    }
+    .mobile {
+        display: block !important;
+        width: auto !important;
+        height: auto !important;
+        float: none !important;
+    }
+    .email-container {
+        width: 100% !important;
+        margin: auto !important;
+    }
+    .stack-column,
+    .stack-column-center {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        direction: ltr !important;
+    }
+    .wid-auto {
+        width:auto !important;
+    }
+
+    .table-w-full-mobile {
+        width: 100%;
+    }
+
+    
+    
+
+    .mobile-center {
+        text-align: center;
+    }
+
+    .mobile-center > table {
+        display: inline-block;
+        vertical-align: inherit;
+    }
+
+    .mobile-left {
+        text-align: left;
+    }
+
+    .mobile-left > table {
+        display: inline-block;
+        vertical-align: inherit;
+    }
+
+    .mobile-right {
+        text-align: right;
+    }
+
+    .mobile-right > table {
+        display: inline-block;
+        vertical-align: inherit;
+    }
+
+}
+
+</style>
+</head>
+
+<body width="100%" style="background-color:#1e1e1e;margin:0;padding:0!important;mso-line-height-rule:exactly;">
+<div style="background-color:#1e1e1e">
+<!--[if gte mso 9]>
+                <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+                <v:fill type="tile" color="#1e1e1e"/>
+                </v:background>
+                <![endif]-->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" align="center">
+<table bgcolor="#ffffff" style="margin:0 auto;" align="center" id="brick_container" cellspacing="0" cellpadding="0" border="0" width="600" class="email-container">
+<tr>
+<td width="600">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="600" style="vertical-align: middle; background-color:#ffffff;  " bgcolor="#ffffff">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align: middle;" width="600">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="600" style="background-color:#ffffff;  " bgcolor="#ffffff">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="600">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="500" align="center" style="vertical-align: middle; background-color:#ffffff;   padding-left:50px; padding-right:50px;" bgcolor="#ffffff">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:15px; height:15px; font-size:15px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="vertical-align: middle;" width="250" align="center"><img src="https://ec.xnglobalres.com/wbs_hotel_media/wbe/Basestack_logo_5855dc9e-3159-44c4-8311-d2a626dc267e.png" width="250" border="0" style="max-width:250px; width: 100%;
+         height: auto; display: block;"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:10px; height:10px; font-size:10px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;" width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="100%" align="center" style="vertical-align: middle;  ">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align: middle;" align="center">
+<div style="line-height:12px;text-align:center;"><span style="color:#292929;font-weight:550;font-family:Trois Mille Medium,Arial,sans-serif;font-size:13px;line-height:12px;text-align:center;">Designed for the bold, the curious, and the unstoppable.</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:15px; height:15px; font-size:15px">&#8202;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="600">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="552" align="center" style="background-color:#ffffff;   padding-left:24px; padding-right:24px;" bgcolor="#ffffff">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:24px; height:24px; font-size:24px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="100%" style="vertical-align: middle; background-color:#e1f288; border-radius:60px;  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.15000000596046448); padding-left:24px; padding-right:24px;" bgcolor="#e1f288">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:75px; height:75px; font-size:75px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;" width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="100%" align="center" style="vertical-align: middle;  ">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align: middle;" align="center">
+<div style="line-height:25px;text-align:center;"><span style="color:#292929;font-weight:700;font-family:TWK Lausanne,Arial,sans-serif;font-size:24px;line-height:25px;text-align:center;">Hi {TenantName}</span></div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:20px; height:20px; font-size:20px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;" align="center">
+<div style="line-height:normal;text-align:center;"><span style="color:#292929;font-weight:350;font-family:TWK Lausanne,Arial,sans-serif;font-size:28px;line-height:normal;text-align:center;">Thank you for signing the agreement.</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:35px; height:35px; font-size:35px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;" width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="100%" align="center" style="vertical-align: middle;  ">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align: middle;" align="center">
+<div style="line-height:25px;text-align:left;"><span style="color:#292929;font-weight:500;font-family:TWK Lausanne,Arial,sans-serif;font-size:20px;line-height:25px;text-align:left;">Please upload the following*:</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:35px; height:35px; font-size:35px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;" width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="100%" align="center">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:4px; height:4px; font-size:4px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td width="28"><img src="https://ec.xnglobalres.com/wbs_hotel_media/wbe/photo_icon_17d5dc45-4ded-4a4c-bf05-fc7cbe7737da.png" width="28" border="0" style="min-width:28px; width:28px;
+         height: auto; display: block;"></td>
+<td style="width:16px; min-width:16px;" width="16">&#8202;</td>
+<td width="460" style="height:28px;  ">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:28px;text-align:left;"><span style="color:#292929;font-family:TWK Lausanne,Arial,sans-serif;font-size:20px;line-height:28px;text-align:left;">A scan of your passport or photo ID.</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:4px; height:4px; font-size:4px">&#8202;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:5px; height:5px; font-size:5px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:4px; height:4px; font-size:4px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td width="28"><img src="https://ec.xnglobalres.com/wbs_hotel_media/wbe/otherdocs_icon_95db43bb-1edf-4b18-a7e3-bcd40b409a70.png" width="28" border="0" style="min-width:28px; width:28px;
+         height: auto; display: block;"></td>
+<td style="width:16px; min-width:16px;" width="16">&#8202;</td>
+<td width="460" style="height:28px;  ">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:28px;text-align:left;"><span style="color:#292929;font-family:TWK Lausanne,Arial,sans-serif;font-size:20px;line-height:28px;text-align:left;">Other required documents.</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:4px; height:4px; font-size:4px">&#8202;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:35px; height:35px; font-size:35px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="vertical-align: middle;">
+<div>
+<!--[if mso]>
+    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://book.basestackliving.com/xms/rsp/basestackliving/prod/redirect-login/4541e6a9-b047-4fe5-b295-27a313a79c94?redirect_to=upload-document" style="height:64px;v-text-anchor:middle;width:264px;" fillcolor="#9bc25e"  stroke="f" arcsize="55%">
+    <w:anchorlock/>
+    <center style="white-space:nowrap;display:inline-block;text-align:center;color:#fff3e4;font-weight:550;font-family:Trois Mille Medium,Arial,sans-serif;font-size:20px;">Upload Documents</center>
+    </v:roundrect>
+<![endif]-->
+<a href="https://book.basestackliving.com/xms/rsp/basestackliving/prod/redirect-login/4541e6a9-b047-4fe5-b295-27a313a79c94?redirect_to=upload-document" style="white-space:nowrap;background-color:#9bc25e;border-radius:35px; display:inline-block;text-align:center;color:#fff3e4;font-weight:550;font-family:Trois Mille Medium,Arial,sans-serif;font-size:20px;line-height:64px;width:264px; -webkit-text-size-adjust:none;mso-hide:all;box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.15000000596046448);">Upload Documents</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:35px; height:35px; font-size:35px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;" width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="100%" align="center" style="vertical-align: middle;  ">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align: middle;" align="center">
+<div style="line-height:20px;text-align:left;"><span style="color:#292929;font-weight:350;font-family:TWK Lausanne,Arial,sans-serif;font-size:16px;line-height:20px;text-align:left;">*As soon as you have completed these steps, our team will countersign your agreement, which you can then download by logging into your </span><span style="color:#292929;font-weight:500;font-family:TWK Lausanne,Arial,sans-serif;font-size:16px;line-height:20px;text-align:left;">Stack Hub</span><span style="color:#292929;font-weight:350;font-family:TWK Lausanne,Arial,sans-serif;font-size:16px;line-height:20px;text-align:left;">.</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:35px; height:35px; font-size:35px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;" width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="100%" align="center" style="vertical-align: middle;  ">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align: middle;" align="center">
+<div style="line-height:20px;text-align:left;"><span style="color:#292929;font-weight:350;font-family:TWK Lausanne,Arial,sans-serif;font-size:16px;line-height:20px;text-align:left;">If you have any questions, reach out to us at </span><span style="color:#292929;font-weight:350;font-family:TWK Lausanne,Arial,sans-serif;font-size:16px;line-height:20px;text-align:left;text-decoration:underline;"><a style="color:#292929;text-decoration:underline;" href="mailto:Bryggen@basestackliving.com" target="_blank">Bryggen@basestackliving.com</a><br></span><span style="color:#292929;font-weight:350;font-family:TWK Lausanne,Arial,sans-serif;font-size:16px;line-height:20px;text-align:left;"><br>We’re here to help, share tips and make the process smooth.</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:75px; height:75px; font-size:75px">&#8202;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:24px; height:24px; font-size:24px">&#8202;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="center" style="vertical-align: middle; background-color:#ffffff;   padding-left:24px; padding-right:24px;" bgcolor="#ffffff">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:24px; height:24px; font-size:24px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;" width="552">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="552" align="center" style="vertical-align: middle;  ">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align: middle;">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:20px;text-align:left;"><span style="color:#292929;font-weight:700;font-family:TWK Lausanne,Arial,sans-serif;font-size:16px;line-height:20px;text-align:left;">The BaseStack Bryggen Team</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:10px; height:10px; font-size:10px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td><a href="https://linktr.ee/basestackliving"><img src="https://ec.xnglobalres.com/wbs_hotel_media/wbe/footer_c5eb5fe4-dc25-4360-9707-5e4be58d859f.png" width="144" border="0" style="min-width:144px; width:144px;
+         height: auto; display: block;"></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td style="width:24px; min-width:24px;" width="24">&#8202;</td>
+<td style="vertical-align: middle;" width="274">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="274" align="right" style="vertical-align: middle;  ">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="right">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="vertical-align: middle;">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="right">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="right">
+<div style="line-height:20px;text-align:right;"><span style="color:#292929;font-weight:350;font-family:TWK Lausanne,Arial,sans-serif;font-size:12px;line-height:20px;text-align:right;">Njalsgade 151, 2300 København, Denmark</span></div>
+</td>
+</tr>
+<tr>
+<td align="right">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="right">
+<div style="line-height:20px;text-align:right;"><span style="color:#292929;font-weight:350;font-family:TWK Lausanne,Arial,sans-serif;font-size:12px;line-height:20px;text-align:right;"><a style="color:#292929;text-decoration:none;" href="mailto:bryggen@basestackliving.com" target="_blank">bryggen@basestackliving.com</a></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="right">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="right">
+<div style="line-height:20px;text-align:right;"><span style="color:#292929;font-weight:350;font-family:TWK Lausanne,Arial,sans-serif;font-size:12px;line-height:20px;text-align:right;">+45 89 87 72 16</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:16px; height:16px; font-size:16px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;" width="552">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="552">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:8px;text-align:center;"><span style="color:#292929;font-weight:125;font-family:TWK Lausanne,Arial,sans-serif;font-size:7px;line-height:8px;text-align:center;">This email including any attachment is confidential information. If you have received this email in error, please notify us and delete the email immediately. You should not copy it for any purpose or disclose its contents to any other person. “BaseStack”, “Basestack Living” and the BaseStack logos are registered trademarks of BaseStack Group Ltd, and are the trading names of BaseStack Group Ltd, BaseStack GmbH, BaseStack SP Z.o.o., BCG Student GmbH, BCG Student Ltd and BREP Student Ltd. Information relating to data protection and processing by BaseStack is available on the following website: https://basestackliving.com/privacy-policy. BCG Student Ltd - Company Number: 09478772. BREP Student Ltd - Company Number: 10629441. Registered Address: Limetree Farm, Badgemore, Henley-On-Thames, England, RG9 4NX. BCG Student GmbH, Rosenthaler Str. 52, 10178 Berlin, Germany.AG Berlin Charlottenburg HRB 218126 B. Geschäftsführer Ermanno Toso Carraro, Sebastian Russ und Justin Hamer. USt / VAT ID DE312019465. BaseStack Living (DK) ApS – CVR: 45304345. Registered Address: Øster Farimagsgade 81,3.th, 2100 København Ø.</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:24px; height:24px; font-size:24px">&#8202;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="600">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="552" align="center" style="background-color:#ffffff;   padding-left:24px; padding-right:24px;" bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div style="line-height:10px; height:10px; font-size:10px">&#8202;</div>
+</td>
+</tr>
+<tr>
+<td align="center">
+<div style="line-height:24px;text-align:center;"><a href="#"><span style="color:#d4cab5;font-family:TWK Lausanne,Arial,sans-serif;font-size:12px;line-height:24px;text-align:center;">View in browser</span></a></div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="line-height:10px; height:10px; font-size:10px">&#8202;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</body>
+
+</html>'
+    WHERE RefID = 'BookingConfirmation'
+      AND Hotel_ID = 17
+  
